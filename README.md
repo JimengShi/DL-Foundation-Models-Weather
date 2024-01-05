@@ -6,6 +6,7 @@ AI models for climate and weather
 - GenCast: Diffusion-based ensemble forecasting for medium-range weather, in arXiv 2023. [[Paper](https://arxiv.org/abs/2312.15796)]
 - spateGAN: Spatio-Temporal Downscaling of Rainfall Fields Using a cGAN Approach, Earth and Space Science 2023. [[Paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023EA002906#:~:text=We%20propose%20spateGAN%2C%20a%20novel,wide%20radar%20observations%20for%20Germany.)]
 - Neural General Circulation Models, in arXiv 2023. [[Paper]](https://arxiv.org/abs/2311.07222)
+- 3D-Geoformer: A self-attention–based neural network for three-dimensional multivariate modeling and its skillful ENSO predictions, in Science Advances, 2023. [[Paper](https://www.science.org/doi/10.1126/sciadv.adf2827)]
 - Accurate Medium-Range Global Weather Forecasting with 3D Neural Networks, in Nature 2023. [paper] [official code]
 - ClimaX: A Foundation Model for Weather and Climate, in arXiv 2023. [pape]] [official code]
 - GraphCast: Learning Skillful Medium-Range Global Weather Forecasting, in arXiv 2022. [paper] [official code]
