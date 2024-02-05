@@ -15,3 +15,4 @@ AI models for climate and weather
 - FengWu: Pushing the Skillful Global Medium-range Weather Forecast beyond 10 Days Lead, in arXiv 2023. [paper]
 - FuXi: A cascade machine learning forecasting system for 15-day global weather forecast, in arXiv 2023. [paper] [official code]
 - OceanGPT: A Large Language Model for Ocean Science Tasks, in arXiv 2023. [paper] [official code]
+- IBMWeatherGen: Stochastic Weather Generator Tool, [[Code](https://github.com/IBM/IBMWeatherGen/)]
