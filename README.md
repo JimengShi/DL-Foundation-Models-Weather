@@ -16,3 +16,5 @@ AI models for climate and weather
 - FuXi: A cascade machine learning forecasting system for 15-day global weather forecast, in arXiv 2023. [paper] [official code]
 - OceanGPT: A Large Language Model for Ocean Science Tasks, in arXiv 2023. [paper] [official code]
 - IBMWeatherGen: Stochastic Weather Generator Tool, [[Code](https://github.com/IBM/IBMWeatherGen/)]
+- Diffusion Weather, [[Code](https://github.com/openclimatefix/diffusion_weather)]
+- Diffusion Model for Time Series, SpatioTemporal and Tabular Data, [[Code](https://github.com/yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model#weather)]
