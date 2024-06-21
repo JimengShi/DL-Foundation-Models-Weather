@@ -2,11 +2,11 @@
 AI models for climate and weather
 
 ## Paper
-- Latent Diffusion Model for Quantitative Precipitation Estimation and Forecast at km Scale. [[paper]](https://d197for5662m48.cloudfront.net/documents/publicationstatus/211030/preprint_pdf/76ff62db3b13a23d0922b2d7690df6f6.pdf)
-- PreDiff: Precipitation Nowcasting with Latent Diffusion Models [[paper]](https://arxiv.org/pdf/2307.10422)
-- GenCast: GenCast: Diffusion-based ensemble forecasting for medium-range weather [[paper]](https://arxiv.org/pdf/2312.15796v1)
+- Latent Diffusion Model for Quantitative Precipitation Estimation and Forecast at km Scale. [[paper](https://d197for5662m48.cloudfront.net/documents/publicationstatus/211030/preprint_pdf/76ff62db3b13a23d0922b2d7690df6f6.pdf)]
+- PreDiff: Precipitation Nowcasting with Latent Diffusion Models [[paper](https://arxiv.org/pdf/2307.10422)]
+- GenCast: GenCast: Diffusion-based ensemble forecasting for medium-range weather [[paper](https://arxiv.org/pdf/2312.15796v1)]
 - ChatClimate: Grounding conversational AI in climate science, in Nature Communications Earth & Environment 2023. [[Paper](https://www.nature.com/articles/s43247-023-01084-x)]
-- GenCast: Diffusion-based ensemble forecasting for medium-range weather, in arXiv 2023. [[Paper](https://arxiv.org/abs/2312.15796)]
+- GenCast: Diffusion-based ensemble forecasting for medium-range weather, in arXiv 2023. [Paper](https://arxiv.org/abs/2312.15796)]
 - spateGAN: Spatio-Temporal Downscaling of Rainfall Fields Using a cGAN Approach, Earth and Space Science 2023. [[Paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023EA002906#:~:text=We%20propose%20spateGAN%2C%20a%20novel,wide%20radar%20observations%20for%20Germany.)]
 - Neural General Circulation Models, in arXiv 2023. [[Paper]](https://arxiv.org/abs/2311.07222)
 - 3D-Geoformer: A self-attention–based neural network for three-dimensional multivariate modeling and its skillful ENSO predictions, in Science Advances, 2023. [[Paper](https://www.science.org/doi/10.1126/sciadv.adf2827)]
