@@ -1,6 +1,50 @@
 # Awesome-Foundation-Models-for-Weather-and-Climate
 AI models for climate and weather
 
+## Contents
+- [Predictive Models](#predictive-learning)
+- [Generative Models](#generative-learning)
+- [Foundation Models](#pretraining-finetuning)
+ 
+  
+## Predictive Models
+<h3 id="predictive-learning">Predictive Models</h3>
+
+- **(SciBERT)** _SciBERT: A Pretrained Language Model for Scientific Text_ ```EMNLP 2019```     
+[[Paper](https://arxiv.org/abs/1903.10676)] [[GitHub](https://github.com/allenai/scibert)] [[Model (Base)](https://huggingface.co/allenai/scibert_scivocab_uncased)]
+
+- **(FORGE)** _FORGE: Pre-training Open Foundation Models for Science_ ```SC 2023```     
+[[Paper](https://doi.org/10.1145/3581784.3613215)] [[GitHub](https://github.com/at-aaims/forge)] [[Model (1.4B, General)](https://www.dropbox.com/sh/byr1ydik5n1ucod/AADOu_9C6AwVPTThTUFQ7yQba?dl=0)] [[Model (1.4B, Biology/Medicine)](https://www.dropbox.com/sh/41sqapgza3ok9q9/AADLgwTiHVU26ZeW_UQ8apyta?dl=0)] [[Model (1.4B, Chemistry)](https://www.dropbox.com/sh/1jn3n7099r8pzt8/AAAO6sOpFYG-G_qFI6C6CXVVa?dl=0)] [[Model (1.4B, Engineering)](https://www.dropbox.com/sh/ueki0n6y3v8gtkw/AAB6-3ml9slcbOonk6ccdD4Ua?dl=0)] [[Model (1.4B, Materials Science)](https://www.dropbox.com/sh/ngrr3bjulc76944/AABpm_OxA-GQPWzIPM4KpVKOa?dl=0)] [[Model (1.4B, Physics)](https://www.dropbox.com/sh/jxux4tplw5aw7kw/AAAdk334IEMbY7HJlJrWVzyfa?dl=0)] [[Model (1.4B, Social Science/Art)](https://www.dropbox.com/sh/54tuyslytqhpq1z/AAAc65c3TQWo2MyPoSiPxKI2a?dl=0)] [[Model (13B, General)](https://www.dropbox.com/sh/g53ot3dpqfsf6fr/AAB_RFeox2tbDKVFCH0QCw5pa?dl=0)] [[Model (22B, General)](https://www.dropbox.com/sh/7b9gbgcqdyph8v9/AABjNTaYu5PTjTMLb4-t6-PNa?dl=0)]
+
+- **(SciGLM)** _SciGLM: Training Scientific Language Models with Self-Reflective Instruction Annotation and Tuning_ ```arXiv 2024```     
+[[Paper](https://arxiv.org/abs/2401.07950)] [[GitHub](https://github.com/THUDM/SciGLM)] [[Model (6B)](https://huggingface.co/zd21/SciGLM-6B)]
+
+## Generative Models
+<h3 id="generative-learning">Generative Models</h3>
+
+- **(SciBERT)** _SciBERT: A Pretrained Language Model for Scientific Text_ ```EMNLP 2019```     
+[[Paper](https://arxiv.org/abs/1903.10676)] [[GitHub](https://github.com/allenai/scibert)] [[Model (Base)](https://huggingface.co/allenai/scibert_scivocab_uncased)]
+
+- **(FORGE)** _FORGE: Pre-training Open Foundation Models for Science_ ```SC 2023```     
+[[Paper](https://doi.org/10.1145/3581784.3613215)] [[GitHub](https://github.com/at-aaims/forge)] [[Model (1.4B, General)](https://www.dropbox.com/sh/byr1ydik5n1ucod/AADOu_9C6AwVPTThTUFQ7yQba?dl=0)] [[Model (1.4B, Biology/Medicine)](https://www.dropbox.com/sh/41sqapgza3ok9q9/AADLgwTiHVU26ZeW_UQ8apyta?dl=0)] [[Model (1.4B, Chemistry)](https://www.dropbox.com/sh/1jn3n7099r8pzt8/AAAO6sOpFYG-G_qFI6C6CXVVa?dl=0)] [[Model (1.4B, Engineering)](https://www.dropbox.com/sh/ueki0n6y3v8gtkw/AAB6-3ml9slcbOonk6ccdD4Ua?dl=0)] [[Model (1.4B, Materials Science)](https://www.dropbox.com/sh/ngrr3bjulc76944/AABpm_OxA-GQPWzIPM4KpVKOa?dl=0)] [[Model (1.4B, Physics)](https://www.dropbox.com/sh/jxux4tplw5aw7kw/AAAdk334IEMbY7HJlJrWVzyfa?dl=0)] [[Model (1.4B, Social Science/Art)](https://www.dropbox.com/sh/54tuyslytqhpq1z/AAAc65c3TQWo2MyPoSiPxKI2a?dl=0)] [[Model (13B, General)](https://www.dropbox.com/sh/g53ot3dpqfsf6fr/AAB_RFeox2tbDKVFCH0QCw5pa?dl=0)] [[Model (22B, General)](https://www.dropbox.com/sh/7b9gbgcqdyph8v9/AABjNTaYu5PTjTMLb4-t6-PNa?dl=0)]
+
+- **(SciGLM)** _SciGLM: Training Scientific Language Models with Self-Reflective Instruction Annotation and Tuning_ ```arXiv 2024```     
+[[Paper](https://arxiv.org/abs/2401.07950)] [[GitHub](https://github.com/THUDM/SciGLM)] [[Model (6B)](https://huggingface.co/zd21/SciGLM-6B)]
+
+
+## Foundation Models
+<h3 id="pretraining-finetuning">Foundation Models</h3>
+
+- **(SciBERT)** _SciBERT: A Pretrained Language Model for Scientific Text_ ```EMNLP 2019```     
+[[Paper](https://arxiv.org/abs/1903.10676)] [[GitHub](https://github.com/allenai/scibert)] [[Model (Base)](https://huggingface.co/allenai/scibert_scivocab_uncased)]
+
+- **(FORGE)** _FORGE: Pre-training Open Foundation Models for Science_ ```SC 2023```     
+[[Paper](https://doi.org/10.1145/3581784.3613215)] [[GitHub](https://github.com/at-aaims/forge)] [[Model (1.4B, General)](https://www.dropbox.com/sh/byr1ydik5n1ucod/AADOu_9C6AwVPTThTUFQ7yQba?dl=0)] [[Model (1.4B, Biology/Medicine)](https://www.dropbox.com/sh/41sqapgza3ok9q9/AADLgwTiHVU26ZeW_UQ8apyta?dl=0)] [[Model (1.4B, Chemistry)](https://www.dropbox.com/sh/1jn3n7099r8pzt8/AAAO6sOpFYG-G_qFI6C6CXVVa?dl=0)] [[Model (1.4B, Engineering)](https://www.dropbox.com/sh/ueki0n6y3v8gtkw/AAB6-3ml9slcbOonk6ccdD4Ua?dl=0)] [[Model (1.4B, Materials Science)](https://www.dropbox.com/sh/ngrr3bjulc76944/AABpm_OxA-GQPWzIPM4KpVKOa?dl=0)] [[Model (1.4B, Physics)](https://www.dropbox.com/sh/jxux4tplw5aw7kw/AAAdk334IEMbY7HJlJrWVzyfa?dl=0)] [[Model (1.4B, Social Science/Art)](https://www.dropbox.com/sh/54tuyslytqhpq1z/AAAc65c3TQWo2MyPoSiPxKI2a?dl=0)] [[Model (13B, General)](https://www.dropbox.com/sh/g53ot3dpqfsf6fr/AAB_RFeox2tbDKVFCH0QCw5pa?dl=0)] [[Model (22B, General)](https://www.dropbox.com/sh/7b9gbgcqdyph8v9/AABjNTaYu5PTjTMLb4-t6-PNa?dl=0)]
+
+- **(SciGLM)** _SciGLM: Training Scientific Language Models with Self-Reflective Instruction Annotation and Tuning_ ```arXiv 2024```     
+[[Paper](https://arxiv.org/abs/2401.07950)] [[GitHub](https://github.com/THUDM/SciGLM)] [[Model (6B)](https://huggingface.co/zd21/SciGLM-6B)]
+
+
 ## Paper
 - Latent Diffusion Model for Quantitative Precipitation Estimation and Forecast at km Scale. [[paper](https://d197for5662m48.cloudfront.net/documents/publicationstatus/211030/preprint_pdf/76ff62db3b13a23d0922b2d7690df6f6.pdf)]
 - PreDiff: Precipitation Nowcasting with Latent Diffusion Models [[paper](https://arxiv.org/pdf/2307.10422)]
