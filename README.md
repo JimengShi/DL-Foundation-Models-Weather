@@ -8,7 +8,7 @@ Add Figures 1 & 2 from the paper here.
     - [Transformer](#general-predictive-learning-transformer)
 - [Generative Models](#generative-learning)
   - [General-Purpose Large Models](#general-generative-learning)
-    - [Diffusion Modles](#general-generative-learning-diffusion)
+    - [Diffusion Models](#general-generative-learning-diffusion)
 - [Foundation Models](#pretraining-finetuning)
  
   
@@ -37,8 +37,8 @@ Add Figure 3 from the paper here.
 
 <h2 id="pretraining-finetuning">Foundation Models</h2>
 
-- **(SciBERT)** _SciBERT: A Pretrained Language Model for Scientific Text_ ```EMNLP 2019```     
-[[Paper](https://arxiv.org/abs/1903.10676)] [[GitHub](https://github.com/allenai/scibert)]
+- **(SciBERT)** _ClimaX: A foundation model for weather and climate_ ```ICML 2023```     
+[[Paper](https://arxiv.org/abs/2301.10343)] [[Code](https://github.com/microsoft/ClimaX)]
 
 
 
