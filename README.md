@@ -37,7 +37,7 @@ Add Figure 3 from the paper here.
 
 <h2 id="pretraining-finetuning">Foundation Models</h2>
 
-- **(SciBERT)** _ClimaX: A foundation model for weather and climate_ ```ICML 2023```     
+- **(ClimaX)** _ClimaX: A foundation model for weather and climate_ ```ICML 2023```     
 [[Paper](https://arxiv.org/abs/2301.10343)] [[Code](https://github.com/microsoft/ClimaX)]
 
 
