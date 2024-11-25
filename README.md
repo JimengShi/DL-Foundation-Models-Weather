@@ -10,6 +10,7 @@ AI models for climate and weather
   
 ## Taxonomy: Predictive Models, Generative Models and Foundation Models
 <h2 id="predictive-learning">Predictive Models</h2>
+add figure 3 in the paper here.
 
 <h3 id="general-predictive-learning">General-Purpose Large Models</h3>
 - **(SciBERT)** _SciBERT: A Pretrained Language Model for Scientific Text_ ```EMNLP 2019```     
