@@ -7,7 +7,7 @@ AI models for climate and weather
 - [Foundation Models](#pretraining-finetuning)
  
   
-## Predictive Models
+## Taxonomy: Predictive Models, Generative Models and Foundation Models
 <h3 id="predictive-learning">Predictive Models</h3>
 
 - **(SciBERT)** _SciBERT: A Pretrained Language Model for Scientific Text_ ```EMNLP 2019```     
@@ -19,7 +19,8 @@ AI models for climate and weather
 - **(SciGLM)** _SciGLM: Training Scientific Language Models with Self-Reflective Instruction Annotation and Tuning_ ```arXiv 2024```     
 [[Paper](https://arxiv.org/abs/2401.07950)] [[GitHub](https://github.com/THUDM/SciGLM)] [[Model (6B)](https://huggingface.co/zd21/SciGLM-6B)]
 
-## Generative Models
+
+
 <h3 id="generative-learning">Generative Models</h3>
 
 - **(SciBERT)** _SciBERT: A Pretrained Language Model for Scientific Text_ ```EMNLP 2019```     
@@ -32,7 +33,7 @@ AI models for climate and weather
 [[Paper](https://arxiv.org/abs/2401.07950)] [[GitHub](https://github.com/THUDM/SciGLM)] [[Model (6B)](https://huggingface.co/zd21/SciGLM-6B)]
 
 
-## Foundation Models
+
 <h3 id="pretraining-finetuning">Foundation Models</h3>
 
 - **(SciBERT)** _SciBERT: A Pretrained Language Model for Scientific Text_ ```EMNLP 2019```     
@@ -45,7 +46,7 @@ AI models for climate and weather
 [[Paper](https://arxiv.org/abs/2401.07950)] [[GitHub](https://github.com/THUDM/SciGLM)] [[Model (6B)](https://huggingface.co/zd21/SciGLM-6B)]
 
 
-## Paper
+## Applications
 - Latent Diffusion Model for Quantitative Precipitation Estimation and Forecast at km Scale. [[paper](https://d197for5662m48.cloudfront.net/documents/publicationstatus/211030/preprint_pdf/76ff62db3b13a23d0922b2d7690df6f6.pdf)]
 - PreDiff: Precipitation Nowcasting with Latent Diffusion Models [[paper](https://arxiv.org/pdf/2307.10422)]
 - GenCast: GenCast: Diffusion-based ensemble forecasting for medium-range weather [[paper](https://arxiv.org/pdf/2312.15796v1)]
