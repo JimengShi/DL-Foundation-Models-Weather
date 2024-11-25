@@ -4,18 +4,17 @@ AI models for climate and weather
 ## Contents
 - [Predictive Models](#predictive-learning)
   - [General-Purpose Large Models](general-predictive-learning)
+    - [Transformer](general-predictive-learning-transformer)
 - [Generative Models](#generative-learning)
 - [Foundation Models](#pretraining-finetuning)
  
   
 ## Taxonomy: Predictive Models, Generative Models and Foundation Models
 <h2 id="predictive-learning">Predictive Models</h2>
-add figure 3 in the paper here.
+Add Figure 3 from the paper here.
 
 <h3 id="general-predictive-learning">General-Purpose Large Models</h3>
-- **(SciBERT)** _SciBERT: A Pretrained Language Model for Scientific Text_ ```EMNLP 2019```     
-[[Paper](https://arxiv.org/abs/1903.10676)] [[GitHub](https://github.com/allenai/scibert)] [[Model (Base)](https://huggingface.co/allenai/scibert_scivocab_uncased)]
-
+<h3 id="general-predictive-learning-transformer">Transformer</h3>
 - **(SciGLM)** _SciGLM: Training Scientific Language Models with Self-Reflective Instruction Annotation and Tuning_ ```arXiv 2024```     
 [[Paper](https://arxiv.org/abs/2401.07950)] [[GitHub](https://github.com/THUDM/SciGLM)] [[Model (6B)](https://huggingface.co/zd21/SciGLM-6B)]
 
