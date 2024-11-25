@@ -4,11 +4,11 @@ Add Figures 1 & 2 from the paper here.
 
 ## Contents
 - [Predictive Models](#predictive-learning)
-  - [General-Purpose Large Models](general-predictive-learning)
-    - [Transformer](general-predictive-learning-transformer)
+  - [General-Purpose Large Models](#general-predictive-learning)
+    - [Transformer](#general-predictive-learning-transformer)
 - [Generative Models](#generative-learning)
-  - [General-Purpose Large Models](general-generative-learning)
-    - [Diffusion Modles](general-generative-learning-diffusion)
+  - [General-Purpose Large Models](#general-generative-learning)
+    - [Diffusion Modles](#general-generative-learning-diffusion)
 - [Foundation Models](#pretraining-finetuning)
  
   
