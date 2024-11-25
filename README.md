@@ -7,6 +7,8 @@ Add Figures 1 & 2 from the paper here.
   - [General-Purpose Large Models](general-predictive-learning)
     - [Transformer](general-predictive-learning-transformer)
 - [Generative Models](#generative-learning)
+  - [General-Purpose Large Models](general-generative-learning)
+    - [Diffusion Modles](general-generative-learning-diffusion)
 - [Foundation Models](#pretraining-finetuning)
  
   
@@ -23,6 +25,9 @@ Add Figure 3 from the paper here.
 
 
 <h2 id="generative-learning">Generative Models</h2>
+
+<h3 id="general-generative-learning">General-Purpose Large Models</h3>
+<h4 id="general-generative-learning-diffusion">Diffusion Models</h4>
 
 - **(GenCast)** _GenCast: Diffusion-based ensemble forecasting for medium-range weather_ ```arXiv 2023```     
 [[Paper](https://arxiv.org/abs/2312.15796)] 
