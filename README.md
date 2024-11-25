@@ -15,6 +15,7 @@ Add Figure 3 from the paper here.
 
 <h3 id="general-predictive-learning">General-Purpose Large Models</h3>
 <h3 id="general-predictive-learning-transformer">Transformer</h3>
+
 - **(SciGLM)** _SciGLM: Training Scientific Language Models with Self-Reflective Instruction Annotation and Tuning_ ```arXiv 2024```     
 [[Paper](https://arxiv.org/abs/2401.07950)] [[GitHub](https://github.com/THUDM/SciGLM)] [[Model (6B)](https://huggingface.co/zd21/SciGLM-6B)]
 
