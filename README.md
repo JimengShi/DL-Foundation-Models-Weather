@@ -10,7 +10,7 @@ Add Figures 1 & 2 from the paper here.
 - [Foundation Models](#pretraining-finetuning)
  
   
-## Taxonomy: Predictive Models, Generative Models and Foundation Models
+## Taxonomy
 <h2 id="predictive-learning">Predictive Models</h2>
 Add Figure 3 from the paper here.
 
@@ -18,14 +18,14 @@ Add Figure 3 from the paper here.
 <h4 id="general-predictive-learning-transformer">Transformer</h4>
 
 - **(FourCastNet)** _FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators_ ```arXiv 2022```     
-[[Paper](https://arxiv.org/abs/2202.11214)] [[GitHub](https://github.com/NVlabs/FourCastNet)] 
+[[Paper](https://arxiv.org/abs/2202.11214)] [[Code](https://github.com/NVlabs/FourCastNet)] 
 
 
 
 <h2 id="generative-learning">Generative Models</h2>
 
-- **(SciBERT)** _SciBERT: A Pretrained Language Model for Scientific Text_ ```EMNLP 2019```     
-[[Paper](https://arxiv.org/abs/1903.10676)] [[GitHub](https://github.com/allenai/scibert)]
+- **(GenCast)** _GenCast: Diffusion-based ensemble forecasting for medium-range weather_ ```arXiv 2023```     
+[[Paper](https://arxiv.org/abs/2312.15796)] 
 
 
 
