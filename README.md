@@ -13,8 +13,9 @@ Add Figures 1 & 2 from the paper here.
  
   
 ## Taxonomy
-<h2 id="predictive-learning">Predictive Models</h2>
 Add Figure 3 from the paper here.
+
+<h2 id="predictive-learning">Predictive Models</h2>
 
 <h3 id="general-predictive-learning">General-Purpose Large Models</h3>
 <h4 id="general-predictive-learning-transformer">Transformer</h4>
