@@ -103,8 +103,63 @@
 
 
 
+<h4 id="domain-predictive-learning-transformer">GNN</h4>
+
+- **(HiSTGNN)** _HiSTGNN: Hierarchical spatio-temporal graph neural network for weather forecasting_ ```Information Sciences 2023```     
+[[Paper](https://www.sciencedirect.com/science/article/pii/S0020025523011659)] [[Code](https://github.com/mb-Ma/HiSTGNN)]
+
+- **(w-GNN)** _Coupling Physical Factors for Precipitation Forecast in China With Graph Neural Network_ ```AGU 2024```     
+[[Paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL106676)] 
+
+- **(WeatherGNN)** _WeatherGNN: Exploiting Meteo- and Spatial-Dependencies for Local Numerical Weather Prediction Bias-Correction_ ```IJCAI 2024```     
+[[Paper](https://www.ijcai.org/proceedings/2024/0269.pdf)] 
+
+- **(MPNNs)** _Multi-modal graph neural networks for localized off-grid weather forecasting_ ```arXiv 2024```     
+[[Paper](https://arxiv.org/abs/2410.12938)] [[Code](https://github.com/Earth-Intelligence-Lab/LocalizedWeatherGNN/)]
 
 
+
+<h4 id="domain-predictive-learning-transformer">RNN&CNN</h4>
+
+- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
+
+- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
+
+- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
+
+- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
+
+- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
+
+
+
+<h4 id="domain-predictive-learning-transformer">Mamba</h4>
+
+- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
+
+- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
+
+
+<h4 id="domain-predictive-learning-transformer">PhysicsAI</h4>
+
+- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
+
+- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
+
+- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
+
+- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
 
 
 <!-------------------------------------- Generative Models  --------------------------------------> 
