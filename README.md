@@ -43,15 +43,15 @@
 [[Paper](https://www.nature.com/articles/s41612-023-00512-1)] [[Code](https://drive.google.com/drive/folders/1NhrcpkWS6MHzEs3i_lsIaZsADjBrICYV)]
 
 - **(FengWu)** _FengWu: Pushing the Skillful Global Medium-range Weather Forecast beyond 10 Days Lead_ ```arXiv 2023```     
-[[Paper](https://arxiv.org/abs/2304.02948)] 
+[[Paper](https://arxiv.org/abs/2304.02948)] [[Code](https://github.com/OpenEarthLab/FengWu)]
 
 - **(FengWu-4DVar)** _FengWu-4DVar: Coupling the Data-driven Weather Forecasting Model with 4D Variational Assimilation_ ```arXiv 2023```     
-[[Paper](https://arxiv.org/abs/2312.12455)] 
+[[Paper](https://arxiv.org/abs/2312.12455)] [[Code](https://github.com/OpenEarthLab/FengWu-4DVar)]
 
 - **(SwinVRNN)** _SwinVRNN: A Data-Driven Ensemble Forecasting Model via Learned Distribution Perturbation_ ```JAMES 2023```     
 [[Paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022MS003211)] [[Code](https://github.com/tpys/wwprediction)]
 
-- **(SwinRDM)** _SwinRDM: Integrate SwinRNN with Diffusion Model towards High-Resolution and High-Quality Weather Forecasting_ ```AAAI Technical Track on Computer Vision I 2023```     
+- **(SwinRDM)** _SwinRDM: Integrate SwinRNN with Diffusion Model towards High-Resolution and High-Quality Weather Forecasting_ ```AAAI 2023```     
 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25105)] 
 
 - **(Pangu-Weather)** _Accurate medium-range global weather forecasting with 3D neural networks_ ```Nature 2023```    
