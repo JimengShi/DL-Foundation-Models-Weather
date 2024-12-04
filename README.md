@@ -46,57 +46,43 @@
 - **(SwinVRNN)** _SwinVRNN: A Data-Driven Ensemble Forecasting Model via Learned Distribution Perturbation_ ```JAMES 2023```     
 [[Paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022MS003211)] [[Code](https://github.com/tpys/wwprediction)]
 
+- **(SwinRDM)** _SwinRDM: Integrate SwinRNN with Diffusion Model towards High-Resolution and High-Quality Weather Forecasting_ ```AAAI Technical Track on Computer Vision I 2023```     
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25105)] 
 
+- **(Pangu-Weather)** _Accurate medium-range global weather forecasting with 3D neural networks_ ```Nature 2023```    
+[[Paper](https://www.nature.com/articles/s41586-023-06185-3)] [[Code](https://github.com/198808xc/Pangu-Weather)]
 
+- **(Stormer)** _Scaling transformer neural networks for skillful and reliable medium-range weather forecasting_ ```arXiv 2024```     
+[[Paper](https://arxiv.org/abs/2312.03876)] [[Code](https://github.com/tung-nd/stormer)]
 
-- **(SwinRDM)** _FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators_ ```arXiv 2022```     
-[[Paper](https://arxiv.org/abs/2202.11214)] [[Code](https://github.com/NVlabs/FourCastNet)]
-
-
-
-- **(Pangu-Weather)** _FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators_ ```arXiv 2022```     
-[[Paper](https://arxiv.org/abs/2202.11214)] [[Code](https://github.com/NVlabs/FourCastNet)]
-
-
-
-- **(Stormer)** _FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators_ ```arXiv 2022```     
-[[Paper](https://arxiv.org/abs/2202.11214)] [[Code](https://github.com/NVlabs/FourCastNet)]
-
-
-- **(HEAL-ViT)** _FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators_ ```arXiv 2022```     
-[[Paper](https://arxiv.org/abs/2202.11214)] [[Code](https://github.com/NVlabs/FourCastNet)]
-
-
-
+- **(HEAL-ViT)** _HEAL-ViT: Vision Transformers on a spherical mesh for medium-range weather forecasting_ ```arXiv 2024```     
+[[Paper](https://arxiv.org/abs/2403.17016)] 
 
 
 
 <h4 id="general-predictive-learning-gnn">GNN</h4>
 
-- **(GraphCast)** _Graphcast: Learning skillful medium-range global weather forecasting._ ```Science 2023```     
+- **(GraphCast)** _Graphcast: Learning skillful medium-range global weather forecasting_ ```Science 2023```     
 [[Paper](https://arxiv.org/abs/2212.12794)] [[Code](https://github.com/openclimatefix/graph_weather)]
 
+- **(GnnWeather)** _Forecasting Global Weather with Graph Neural Networks_ ```arXiv 2022```     
+[[Paper](https://arxiv.org/abs/2202.07575)] [[Code](https://rkeisler.github.io/graph_weather/)]
 
-Azam- **(GnnWeather)** _FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators_ ```arXiv 2022```     
-[[Paper](https://arxiv.org/abs/2202.11214)] [[Code](https://github.com/NVlabs/FourCastNet)]
 
 
 <h4 id="general-predictive-learning-gnn">PhysicsAI</h4>
 
-- **(ClimODE)** _ClimODE: Climate and Weather Forecasting with Physics-informed Neural ODEs._ ```arXiv 2024```     
+- **(ClimODE)** _ClimODE: Climate and Weather Forecasting with Physics-informed Neural ODEs_ ```arXiv 2024```     
 [[Paper](https://arxiv.org/abs/2404.10024)] [[Code](https://github.com/Aalto-QuML/ClimODE)]
 
-Azam uncomplete- **(WeatherODE)** _Graphcast: Learning skillful medium-range global weather forecasting._ ```Science 2023```     
-[[Paper](https://arxiv.org/abs/2212.12794)] [[Code](https://github.com/openclimatefix/graph_weather)]
+- **(WeatherODE)** _Mitigating Time Discretization Challenges with WeatherODE: A Sandwich Physics-Driven Neural ODE for Weather Forecasting_ ```arXiv 2024```     
+[[Paper](https://arxiv.org/abs/2410.06560)] [[Code](https://github.com/DAMO-DI-ML/WeatherODE)]
 
+- **(NeuralGCM)** _Neural general circulation models for weather and climate_ ```Nature 2024```     
+[[Paper](https://www.nature.com/articles/s41586-024-07744-y)] [[Code](https://github.com/neuralgcm/neuralgcm)]
 
-- **(NeuralGCM)** _FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators_ ```arXiv 2022```     
-[[Paper](https://arxiv.org/abs/2202.11214)] [[Code](https://github.com/NVlabs/FourCastNet)]
-
-
-
-- **(Conformer)** _FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators_ ```arXiv 2022```     
-[[Paper](https://arxiv.org/abs/2202.11214)] [[Code](https://github.com/NVlabs/FourCastNet)]
+- **(Conformer)** _STC-ViT: Spatio Temporal Continuous Vision Transformer for Weather Forecasting_ ```arXiv 2024```     
+[[Paper](https://arxiv.org/abs/2402.17966)]
 
 
 
