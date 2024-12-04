@@ -162,6 +162,9 @@
 [[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
 
 
+
+
+
 <!-------------------------------------- Generative Models  --------------------------------------> 
 <h2 id="generative-learning">Generative Models</h2>
 <h3 id="general-generative-learning">General-Purpose Large Models</h3>
@@ -170,6 +173,17 @@
 - **(GenCast)** _GenCast: Diffusion-based ensemble forecasting for medium-range weather_ ```arXiv 2023```     
 [[Paper](https://arxiv.org/abs/2312.15796)] 
 
+- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
+
+- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
+
+- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
+
+
+
 
 <h3 id="domain-generative-learning">Domain-Specific Models</h3>
 <h4 id="domain-generative-learning-diffusion">Diffusion Models</h4>
@@ -177,12 +191,36 @@
 - **(LDMRain)** _Latent diffusion models for generative precipitation nowcast-ing with accurate uncertainty quantification._ ```arXiv 2023```     
 [[Paper](https://arxiv.org/abs/2304.12891)] [[Code](https://github.com/MeteoSwiss/ldcast)] 
 
+- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
+
+- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
+
+- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
+
+- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
+
+- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
+
+
 
 <h4 id="domain-generative-learning-gan">GANs</h4>
 
 - **(GANRain)** _Skillful precipitation nowcasting using deep generative models of radar._ ```Nature 2021```     
 [[Paper](https://www.nature.com/articles/s41586-021-03854-z)] [[Code](https://github.com/openclimatefix/skillful_nowcasting)] 
 
+- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
+
+- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
+
+- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
 
 
 
