@@ -121,30 +121,30 @@
 
 <h4 id="domain-predictive-learning-transformer">RNN&CNN</h4>
 
-- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
-[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
+- **(MetNet)** _MetNet: A Neural Weather Model for Precipitation Forecasting_ ```arXiv 2020```     
+[[Paper](https://arxiv.org/abs/2003.12140)] [[Code](https://drive.google.com/drive/folders/1X4ggyAdvkGcLGYaKUvygb0aCIZCBoVuW)]
 
-- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
-[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
+- **(MetNet-3)** _Deep Learning for Day Forecasts from Sparse Observations_ ```arXiv 2023```     
+[[Paper](https://arxiv.org/abs/2306.06079)] 
 
-- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
-[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
+- **(PredRNN)** _PredRNN: A Recurrent Neural Network for Spatiotemporal Predictive Learning_ ``` IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE 2023```     
+[[Paper](https://ieeexplore.ieee.org/abstract/document/9749915)] [[Code](https://github.com/thuml/predrnn-pytorch)]
 
-- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
-[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
+- **(MM-RNN)** _MM-RNN: A Multimodal RNN for Precipitation Nowcasting_ ```IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING 2023```     
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10092888)] 
 
-- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
-[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
+- **(ConvLSTM)** _Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting_ ```NeurIPS 2015```     
+[[Paper](https://proceedings.neurips.cc/paper/2015/hash/07563a3fe3bbe7e3ba84431ad9d055af-Abstract.html)] [[Code](https://proceedings.neurips.cc/paper_files/paper/2015/file/07563a3fe3bbe7e3ba84431ad9d055af-Supplemental.zip)]
 
 
 
 <h4 id="domain-predictive-learning-transformer">Mamba</h4>
 
-- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
-[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
+- **(MetMamba)** _MetMamba: Regional Weather Forecasting with Spatial-Temporal Mamba Model_ ```arXiv 2024```     
+[[Paper](https://arxiv.org/abs/2408.06400)] 
 
-- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
-[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
+- **(MambaDS)** _MambaDS: Near-Surface Meteorological Field Downscaling With Topography Constrained Selective State-Space Modeling_ ```IEEE Transactions on Geoscience and Remote Sensing 2024```     
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10752514)] 
 
 
 <h4 id="domain-predictive-learning-transformer">PhysicsAI</h4>
