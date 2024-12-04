@@ -81,6 +81,12 @@ Add Figures 1 & 2 from the paper here.
 - **(W-MAE)** _W-MAE: Pre-trained weather model with masked autoencoder for multi-variable weather forecasting_ ```arXiv 2023```     
 [[Paper](https://arxiv.org/abs/2304.08754)] [[Code](https://github.com/Gufrannn/W-MAE)]
 
+- **(Aurora)** _Aurora: A foundation model of the atmosphere._ ```arXiv 2024```     
+[[Paper](https://arxiv.org/abs/2405.13063)] [[Code](https://github.com/microsoft/aurora)]
+
+- **(Prithvi WxC)** _Prithvi WxC: Foundation Model for Weather and Climate_ ```arXiv 2024```     
+[[Paper](https://arxiv.org/abs/2409.13598)] [[Code](https://github.com/NASA-IMPACT/Prithvi-WxC)]
+
 
 
 
