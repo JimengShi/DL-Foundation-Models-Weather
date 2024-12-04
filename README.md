@@ -15,6 +15,7 @@
     - [Diffusion Models](#general-generative-learning-diffusion)
   - [Domain-Specific Models](#domain-generative-learning)
     - [Diffusion Models](#domain-generative-learning-diffusion)
+    - [GANs](#domain-generative-learning-gan)
 - [Foundation Models](#pretraining-finetuning)
  
 
