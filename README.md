@@ -11,13 +11,11 @@ Add Figures 1 & 2 from the paper here.
     - [GNN](#general-predictive-learning-gnn)
   - [Domain-Specific Models](#domain-predictive-learning)
     - [Transformer](#domain-predictive-learning-transformer)
-      
 - [Generative Models](#generative-learning)
   - [General-Purpose Large Models](#general-generative-learning)
     - [Diffusion Models](#general-generative-learning-diffusion)
   - [Domain-Specific Models](#domain-generative-learning)
     - [Diffusion Models](#domain-generative-learning-diffusion)
-
 - [Foundation Models](#pretraining-finetuning)
  
 
