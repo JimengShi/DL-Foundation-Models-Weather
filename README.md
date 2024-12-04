@@ -8,6 +8,7 @@
   - [General-Purpose Large Models](#general-predictive-learning)
     - [Transformer](#general-predictive-learning-transformer)
     - [GNN](#general-predictive-learning-gnn)
+    - [PhysicsAI](#general-predictive-learning-PhysicsAI)
   - [Domain-Specific Models](#domain-predictive-learning)
     - [Transformer](#domain-predictive-learning-transformer)
 - [Generative Models](#generative-learning)
@@ -70,7 +71,7 @@
 
 
 
-<h4 id="general-predictive-learning-gnn">PhysicsAI</h4>
+<h4 id="general-predictive-learning-PhysicsAI">PhysicsAI</h4>
 
 - **(ClimODE)** _ClimODE: Climate and Weather Forecasting with Physics-informed Neural ODEs_ ```arXiv 2024```     
 [[Paper](https://arxiv.org/abs/2404.10024)] [[Code](https://github.com/Aalto-QuML/ClimODE)]
