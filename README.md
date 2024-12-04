@@ -8,9 +8,13 @@
   - [General-Purpose Large Models](#general-predictive-learning)
     - [Transformer](#general-predictive-learning-transformer)
     - [GNN](#general-predictive-learning-gnn)
-    - [PhysicsAI](#general-predictive-learning-PhysicsAI)
+    - [PhysicsAI](#general-predictive-learning-physicsai)
   - [Domain-Specific Models](#domain-predictive-learning)
     - [Transformer](#domain-predictive-learning-transformer)
+    - [GNN](#domain-predictive-learning-gnn)
+    - [RNN&CNN](#domain-predictive-learning-rnn&cnn)
+    - [Mamba](#domain-predictive-learning-mamba)
+    - [PhysicsAI](#domain-predictive-learning-physicsai)
 - [Generative Models](#generative-learning)
   - [General-Purpose Large Models](#general-generative-learning)
     - [Diffusion Models](#general-generative-learning-diffusion)
@@ -71,7 +75,7 @@
 
 
 
-<h4 id="general-predictive-learning-PhysicsAI">PhysicsAI</h4>
+<h4 id="general-predictive-learning-physicsai">PhysicsAI</h4>
 
 - **(ClimODE)** _ClimODE: Climate and Weather Forecasting with Physics-informed Neural ODEs_ ```arXiv 2024```     
 [[Paper](https://arxiv.org/abs/2404.10024)] [[Code](https://github.com/Aalto-QuML/ClimODE)]
@@ -104,7 +108,7 @@
 
 
 
-<h4 id="domain-predictive-learning-transformer">GNN</h4>
+<h4 id="domain-predictive-learning-gnn">GNN</h4>
 
 - **(HiSTGNN)** _HiSTGNN: Hierarchical spatio-temporal graph neural network for weather forecasting_ ```Information Sciences 2023```     
 [[Paper](https://www.sciencedirect.com/science/article/pii/S0020025523011659)] [[Code](https://github.com/mb-Ma/HiSTGNN)]
@@ -120,7 +124,7 @@
 
 
 
-<h4 id="domain-predictive-learning-transformer">RNN&CNN</h4>
+<h4 id="domain-predictive-learning-rnn&cnn">RNN&CNN</h4>
 
 - **(MetNet)** _MetNet: A Neural Weather Model for Precipitation Forecasting_ ```arXiv 2020```     
 [[Paper](https://arxiv.org/abs/2003.12140)] [[Code](https://drive.google.com/drive/folders/1X4ggyAdvkGcLGYaKUvygb0aCIZCBoVuW)]
@@ -139,7 +143,7 @@
 
 
 
-<h4 id="domain-predictive-learning-transformer">Mamba</h4>
+<h4 id="domain-predictive-learning-mamba">Mamba</h4>
 
 - **(MetMamba)** _MetMamba: Regional Weather Forecasting with Spatial-Temporal Mamba Model_ ```arXiv 2024```     
 [[Paper](https://arxiv.org/abs/2408.06400)] 
@@ -148,7 +152,8 @@
 [[Paper](https://ieeexplore.ieee.org/abstract/document/10752514)] 
 
 
-<h4 id="domain-predictive-learning-transformer">PhysicsAI</h4>
+
+<h4 id="domain-predictive-learning-physicsai">PhysicsAI</h4>
 
 - **(NowcastNet)** _Skilful nowcasting of extreme precipitation with NowcastNet_ ```Nature 2023```     
 [[Paper](https://www.nature.com/articles/s41586-023-06184-4)] [[Code](https://codeocean.com/capsule/3935105/tree/v1)]
