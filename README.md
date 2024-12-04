@@ -86,14 +86,22 @@
 
 
 
-
-
-
 <h3 id="domain-predictive-learning">Domain-Specific Models</h3>
 <h4 id="domain-predictive-learning-transformer">Transformer</h4>
 
 - **(SwinUnet)** _Spatiotemporal vision transformer for short time weather forecasting._ ```IEEE BigData 2022```     
 [[Paper](https://ieeexplore.ieee.org/document/9671442)] [[Code](https://github.com/bojesomo/Weather4Cast2021-SwinUNet3D)] 
+
+- **(Earthformer)** _Earthformer: Exploring Space-Time Transformers for Earth System Forecasting_ ```NeurIPS 2022```     
+[[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a2affd71d15e8fedffe18d0219f4837a-Abstract-Conference.html)] [[Code](https://proceedings.neurips.cc/paper_files/paper/2022/file/a2affd71d15e8fedffe18d0219f4837a-Supplemental-Conference.zip)] 
+
+- **(Rainformer)** _Rainformer: Features Extraction Balanced Network for Radar-Based Precipitation Nowcasting_ ```IEEE Geoscience and Remote Sensing Letters 2022```     
+[[Paper](https://ieeexplore.ieee.org/abstract/document/9743916)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
+
+- **(Fformer)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] 
+
+
 
 
 
