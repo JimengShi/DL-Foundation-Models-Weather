@@ -78,6 +78,9 @@ Add Figures 1 & 2 from the paper here.
 - **(ClimaX)** _ClimaX: A foundation model for weather and climate_ ```ICML 2023```     
 [[Paper](https://arxiv.org/abs/2301.10343)] [[Code](https://github.com/microsoft/ClimaX)]
 
+- **(W-MAE)** _W-MAE: Pre-trained weather model with masked autoencoder for multi-variable weather forecasting_ ```arXiv 2023```     
+[[Paper](https://arxiv.org/abs/2304.08754)] [[Code](https://github.com/Gufrannn/W-MAE)]
+
 
 
 
