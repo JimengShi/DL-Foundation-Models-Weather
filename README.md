@@ -31,15 +31,17 @@ Add Figures 1 & 2 from the paper here.
 </div>
 
 
-
-
 <h2 id="predictive-learning">Predictive Models</h2>
-
 <h3 id="general-predictive-learning">General-Purpose Large Models</h3>
 <h4 id="general-predictive-learning-transformer">Transformer</h4>
 
 - **(FourCastNet)** _FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators_ ```arXiv 2022```     
-[[Paper](https://arxiv.org/abs/2202.11214)] [[Code](https://github.com/NVlabs/FourCastNet)] 
+[[Paper](https://arxiv.org/abs/2202.11214)] [[Code](https://github.com/NVlabs/FourCastNet)]
+
+<h4 id="general-predictive-learning-gnn">GNN</h4>
+
+- **(GraphCas)** _Graphcast: Learning skillful medium-range global weather forecasting._ ```Science|AAAS```     
+[[Paper](https://arxiv.org/abs/2212.12794)] [[Code](https://github.com/openclimatefix/graph_weather)]
 
 
 <h3 id="domain-predictive-learning">Domain-Specific Models</h3>
@@ -54,7 +56,6 @@ Add Figures 1 & 2 from the paper here.
 
 
 <h2 id="generative-learning">Generative Models</h2>
-
 <h3 id="general-generative-learning">General-Purpose Large Models</h3>
 <h4 id="general-generative-learning-diffusion">Diffusion Models</h4>
 
