@@ -1,5 +1,4 @@
 # DL-Foundation-Models-for-Weather-Prediction
-Add Figures 1 & 2 from the paper here.
 <div align="center">
 <img src="https://github.com/JimengShi/AI-Models-Weather-and-Climate/blob/main/figs/weather_forecast.jpg" alt="taxonomy" width="600"/> 
 </div>
