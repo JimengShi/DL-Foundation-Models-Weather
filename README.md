@@ -18,6 +18,9 @@ Add Figures 1 & 2 from the paper here.
   
 ## Taxonomy
 Add Figure 3 from the paper here.
+<div align="center">
+<img src="https://github.com/JimengShi/DL-WaLeF/blob/main/figures/domain.png" alt="domian" width="600"/>
+</div>
 
 
 
