@@ -181,7 +181,7 @@
 - **(CoDiCast)** _CoDiCast: Conditional Diffusion Model for Weather Prediction with Uncertainty Quantification_ ```arXiv 2024```     
 [[Paper](https://arxiv.org/abs/2409.05975)] [[Code](https://github.com/JimengShi/CoDiCast)]
 
-- **(SEEDs)** _SEEDS: Emulation of Weather Forecast Ensembles with Diffusion Models_ ```arXiv 2023```     
+- **(SEEDs)** _SEEDS: Emulation of Weather Forecast Ensembles with Diffusion Models_ ```Science Advances```     
 [[Paper](https://arxiv.org/abs/2306.14066)] 
 
 - **(ContinuousEnsCast)** _Continuous Ensemble Weather Forecasting with Diffusion models_ ```arXiv 2024```     
@@ -198,7 +198,7 @@
 - **(PreDiff)** _PreDiff: Precipitation Nowcasting with Latent Diffusion Models_ ```NeurIPS 2023```     
 [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f82ba6a6b981fbbecf5f2ee5de7db39c-Abstract-Conference.html)] [[Code](https://proceedings.neurips.cc/paper_files/paper/2023/file/f82ba6a6b981fbbecf5f2ee5de7db39c-Supplemental-Conference.zip)]
 
-- **(CasCast)** _CasCast: Skillful High-resolution Precipitation Nowcasting via Cascaded Modelling_ ```arXiv 2024```     
+- **(CasCast)** _CasCast: Skillful High-resolution Precipitation Nowcasting via Cascaded Modelling_ ```ICML 2024```     
 [[Paper](https://arxiv.org/abs/2402.04290)] [[Code](https://github.com/OpenEarthLab/CasCast)]
 
 - **(SRNDiff)** _SRNDiff: Short-term Rainfall Nowcasting with Condition Diffusion Model_ ```arXiv 2024```     
