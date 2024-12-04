@@ -35,7 +35,7 @@
 
 <h4 id="general-predictive-learning-gnn">GNN</h4>
 
-- **(GraphCast)** _Graphcast: Learning skillful medium-range global weather forecasting._ ```Science```     
+- **(GraphCast)** _Graphcast: Learning skillful medium-range global weather forecasting._ ```Science 2023```     
 [[Paper](https://arxiv.org/abs/2212.12794)] [[Code](https://github.com/openclimatefix/graph_weather)]
 
 
@@ -64,6 +64,12 @@
 
 - **(LDMRain)** _Latent diffusion models for generative precipitation nowcast-ing with accurate uncertainty quantification._ ```arXiv 2023```     
 [[Paper](https://arxiv.org/abs/2304.12891)] [[Code](https://github.com/MeteoSwiss/ldcast)] 
+
+
+<h4 id="domain-generative-learning-gan">GANs</h4>
+
+- **(GANRain)** _Skillful precipitation nowcasting using deep generative models of radar._ ```Nature 2021```     
+[[Paper](https://www.nature.com/articles/s41586-021-03854-z)] [[Code](https://github.com/openclimatefix/skillful_nowcasting)] 
 
 
 
