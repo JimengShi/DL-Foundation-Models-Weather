@@ -35,7 +35,7 @@
 
 <h4 id="general-predictive-learning-gnn">GNN</h4>
 
-- **(GraphCas)** _Graphcast: Learning skillful medium-range global weather forecasting._ ```Science|AAAS```     
+- **(GraphCast)** _Graphcast: Learning skillful medium-range global weather forecasting._ ```Science```     
 [[Paper](https://arxiv.org/abs/2212.12794)] [[Code](https://github.com/openclimatefix/graph_weather)]
 
 
