@@ -65,8 +65,8 @@ Add Figures 1 & 2 from the paper here.
 <h3 id="domain-generative-learning">Domain-Specific Models</h3>
 <h4 id="domain-generative-learning-diffusion">Diffusion Models</h4>
 
-- **(GenCast)** _GenCast: Diffusion-based ensemble forecasting for medium-range weather_ ```arXiv 2023```     
-[[Paper](https://arxiv.org/abs/2312.15796)]
+- **(LDMRain)** _Latent diffusion models for generative precipitation nowcast-ing with accurate uncertainty quantification._ ```arXiv 2023```     
+[[Paper](https://arxiv.org/abs/2304.12891)] [[Code](https://github.com/MeteoSwiss/ldcast)] 
 
 
 
