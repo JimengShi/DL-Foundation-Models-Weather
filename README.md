@@ -199,10 +199,10 @@
 [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f82ba6a6b981fbbecf5f2ee5de7db39c-Abstract-Conference.html)] [[Code](https://proceedings.neurips.cc/paper_files/paper/2023/file/f82ba6a6b981fbbecf5f2ee5de7db39c-Supplemental-Conference.zip)]
 
 - **(CasCast)** _CasCast: Skillful High-resolution Precipitation Nowcasting via Cascaded Modelling_ ```arXiv 2024```     
-[[Paper](https://arxiv.org/abs/2402.04290)] 
+[[Paper](https://arxiv.org/abs/2402.04290)] [[Code](https://github.com/OpenEarthLab/CasCast)]
 
 - **(SRNDiff)** _SRNDiff: Short-term Rainfall Nowcasting with Condition Diffusion Model_ ```arXiv 2024```     
-[[Paper](https://arxiv.org/abs/2402.13737)] 
+[[Paper](https://arxiv.org/abs/2402.13737)] [[Code](https://github.com/ybu-lxd/SRNDiff)]
 
 - **(DiffCast)** _DiffCast: A Unified Framework via Residual Diffusion for Precipitation Nowcasting_ ```CVPR 2024```     
 [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Yu_DiffCast_A_Unified_Framework_via_Residual_Diffusion_for_Precipitation_Nowcasting_CVPR_2024_paper.html)] [[Code](https://github.com/DeminYu98/DiffCast)]
