@@ -39,6 +39,13 @@
 - **(GraphCast)** _Graphcast: Learning skillful medium-range global weather forecasting._ ```Science 2023```     
 [[Paper](https://arxiv.org/abs/2212.12794)] [[Code](https://github.com/openclimatefix/graph_weather)]
 
+<h4 id="general-predictive-learning-gnn">PhysicsAI</h4>
+
+- **(ClimODE)** _ClimODE: Climate and Weather Forecasting with Physics-informed Neural ODEs._ ```arXiv 2024```     
+[[Paper](https://arxiv.org/abs/2404.10024)] [[Code](https://github.com/Aalto-QuML/ClimODE)]
+
+- **(NeuralGCM)** _Graphcast: Learning skillful medium-range global weather forecasting._ ```Science 2023```     
+[[Paper](https://arxiv.org/abs/2212.12794)] [[Code](https://github.com/openclimatefix/graph_weather)]
 
 
 <h3 id="domain-predictive-learning">Domain-Specific Models</h3>
