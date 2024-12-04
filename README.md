@@ -8,6 +8,7 @@ Add Figures 1 & 2 from the paper here.
 - [Predictive Models](#predictive-learning)
   - [General-Purpose Large Models](#general-predictive-learning)
     - [Transformer](#general-predictive-learning-transformer)
+    - [GNN](#general-predictive-learning-gnn)
       
   - [Domain-Specific Models](#domain-predictive-learning)
     - [Transformer](#domain-predictive-learning-transformer)
@@ -32,6 +33,7 @@ Add Figures 1 & 2 from the paper here.
 
 
 <h2 id="predictive-learning">Predictive Models</h2>
+
 <h3 id="general-predictive-learning">General-Purpose Large Models</h3>
 <h4 id="general-predictive-learning-transformer">Transformer</h4>
 
@@ -42,6 +44,7 @@ Add Figures 1 & 2 from the paper here.
 
 - **(GraphCas)** _Graphcast: Learning skillful medium-range global weather forecasting._ ```Science|AAAS```     
 [[Paper](https://arxiv.org/abs/2212.12794)] [[Code](https://github.com/openclimatefix/graph_weather)]
+
 
 
 <h3 id="domain-predictive-learning">Domain-Specific Models</h3>
