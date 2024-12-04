@@ -149,18 +149,17 @@
 
 <h4 id="domain-predictive-learning-transformer">PhysicsAI</h4>
 
-- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
-[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
+- **(NowcastNet)** _Skilful nowcasting of extreme precipitation with NowcastNet_ ```Nature 2023```     
+[[Paper](https://www.nature.com/articles/s41586-023-06184-4)] [[Code](https://codeocean.com/capsule/3935105/tree/v1)]
 
-- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
-[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
+- **(PhysDL)** _Deep learning for physical processes: incorporating prior scientific knowledge_ ```IOPScience 2019```     
+[[Paper](https://iopscience.iop.org/article/10.1088/1742-5468/ab3195/meta#jstatab3195s4)] 
 
-- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
-[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
+- **(PhyDNet)** _Disentangling Physical Dynamics From Unknown Factors for Unsupervised Video Prediction_ ```CVPR 2020```     
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Le_Guen_Disentangling_Physical_Dynamics_From_Unknown_Factors_for_Unsupervised_Video_Prediction_CVPR_2020_paper.html)] [[Code](https://github.com/vincent-leguen/PhyDNet)]
 
-- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
-[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
-
+- **(DeepPhysiNet)** _DeepPhysiNet: Bridging Deep Learning and Atmospheric Physics for Accurate and Continuous Weather Modeling_ ```arXiv 2024```     
+[[Paper](https://arxiv.org/abs/2401.04125)] [[Code](https://github.com/flyakon/DeepPhysiNet)]
 
 
 
@@ -173,15 +172,14 @@
 - **(GenCast)** _GenCast: Diffusion-based ensemble forecasting for medium-range weather_ ```arXiv 2023```     
 [[Paper](https://arxiv.org/abs/2312.15796)] 
 
-- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
-[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
+- **(CoDiCast)** _CoDiCast: Conditional Diffusion Model for Weather Prediction with Uncertainty Quantification_ ```arXiv 2024```     
+[[Paper](https://arxiv.org/abs/2409.05975)] [[Code](https://github.com/JimengShi/CoDiCast)]
 
-- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
-[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
+- **(SEEDs)** _SEEDS: Emulation of Weather Forecast Ensembles with Diffusion Models_ ```arXiv 2023```     
+[[Paper](https://arxiv.org/abs/2306.14066)] 
 
-- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
-[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
-
+- **(ContinuousEnsCast)** _Continuous Ensemble Weather Forecasting with Diffusion models_ ```arXiv 2024```     
+[[Paper](https://arxiv.org/abs/2410.05431)] [[Code](https://github.com/martinandrae/Continuous-Ensemble-Forecasting)]
 
 
 
@@ -191,20 +189,20 @@
 - **(LDMRain)** _Latent diffusion models for generative precipitation nowcast-ing with accurate uncertainty quantification._ ```arXiv 2023```     
 [[Paper](https://arxiv.org/abs/2304.12891)] [[Code](https://github.com/MeteoSwiss/ldcast)] 
 
-- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
-[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
+- **(PreDiff)** _PreDiff: Precipitation Nowcasting with Latent Diffusion Models_ ```NeurIPS 2023```     
+[[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f82ba6a6b981fbbecf5f2ee5de7db39c-Abstract-Conference.html)] [[Code](https://proceedings.neurips.cc/paper_files/paper/2023/file/f82ba6a6b981fbbecf5f2ee5de7db39c-Supplemental-Conference.zip)]
 
-- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
-[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
+- **(CasCast)** _CasCast: Skillful High-resolution Precipitation Nowcasting via Cascaded Modelling_ ```arXiv 2024```     
+[[Paper](https://arxiv.org/abs/2402.04290)] 
 
-- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
-[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
+- **(SRNDiff)** _SRNDiff: Short-term Rainfall Nowcasting with Condition Diffusion Model_ ```arXiv 2024```     
+[[Paper](https://arxiv.org/abs/2402.13737)] 
 
-- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
-[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
+- **(DiffCast)** _DiffCast: A Unified Framework via Residual Diffusion for Precipitation Nowcasting_ ```CVPR 2024```     
+[[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Yu_DiffCast_A_Unified_Framework_via_Residual_Diffusion_for_Precipitation_Nowcasting_CVPR_2024_paper.html)] [[Code](https://github.com/DeminYu98/DiffCast)]
 
-- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
-[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
+- **(GEDRain)** _Precipitation nowcasting with generative diffusion models_ ```arXiv 2023```     
+[[Paper](https://arxiv.org/abs/2308.06733)] [[Code](https://github.com/fmerizzi/Precipitation-nowcasting-with-generative-diffusion-models)]
 
 
 
@@ -213,14 +211,14 @@
 - **(GANRain)** _Skillful precipitation nowcasting using deep generative models of radar._ ```Nature 2021```     
 [[Paper](https://www.nature.com/articles/s41586-021-03854-z)] [[Code](https://github.com/openclimatefix/skillful_nowcasting)] 
 
-- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
-[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
+- **(MultiScaleGAN)** _Experimental Study on Generative Adversarial Network for Precipitation Nowcasting_ ```IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING 2022```     
+[[Paper](https://ieeexplore.ieee.org/abstract/document/9780397)] [[Code](https://github.com/luochuyao/MultiScaleGAN)]
 
-- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
-[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
+- **(STGM)** _Physical-Dynamic-Driven AI-Synthetic Precipitation Nowcasting Using Task-Segmented Generative Model_ ```AGU 2023```     
+[[Paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL106084)] [[Code](https://zenodo.org/records/8380856)]
 
-- **(???)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
-[[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
+- **(PCT-CycleGAN)** _PCT-CycleGAN: Paired Complementary Temporal Cycle-Consistent Adversarial Networks for Radar-Based Precipitation Nowcasting_ ```ACM 2023```     
+[[Paper](https://dl.acm.org/doi/abs/10.1145/3583780.3615006)] 
 
 
 
