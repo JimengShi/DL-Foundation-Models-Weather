@@ -24,6 +24,11 @@ Add Figure 3 from the paper here.
 [[Paper](https://arxiv.org/abs/2202.11214)] [[Code](https://github.com/NVlabs/FourCastNet)] 
 
 
+<h3 id="general-predictive-learning">Domain-Specific Models</h3>
+
+- **(SwinUnet)** _Spatiotemporal vision transformer for short time weather forecasting._ ```IEEE BigData 2022```     
+[[Paper](https://ieeexplore.ieee.org/document/9671442)] [[Code](https://github.com/bojesomo/Weather4Cast2021-SwinUNet3D)] 
+
 
 <h2 id="generative-learning">Generative Models</h2>
 
