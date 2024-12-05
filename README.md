@@ -175,14 +175,14 @@
 <h3 id="general-generative-learning">General-Purpose Large Models</h3>
 <h4 id="general-generative-learning-diffusion">Diffusion Models</h4>
 
-- **(GenCast)** _GenCast: Diffusion-based ensemble forecasting for medium-range weather_ ```arXiv 2023```     
-[[Paper](https://arxiv.org/abs/2312.15796)] 
+- **(GenCast)** _GenCast: Diffusion-based ensemble forecasting for medium-range weather_ ```Nature 2024```     
+[[Paper](https://www.nature.com/articles/s41586-024-08252-9)] [[Code](https://github.com/google-deepmind/graphcast)]
 
 - **(CoDiCast)** _CoDiCast: Conditional Diffusion Model for Weather Prediction with Uncertainty Quantification_ ```arXiv 2024```     
 [[Paper](https://arxiv.org/abs/2409.05975)] [[Code](https://github.com/JimengShi/CoDiCast)]
 
 - **(SEEDs)** _SEEDS: Emulation of Weather Forecast Ensembles with Diffusion Models_ ```Science Advances```     
-[[Paper](https://arxiv.org/abs/2306.14066)] 
+[[Paper](https://www.science.org/doi/10.1126/sciadv.adk4489)] [[Code](https://github.com/google-research/google-research/tree/master/seeds)] 
 
 - **(ContinuousEnsCast)** _Continuous Ensemble Weather Forecasting with Diffusion models_ ```arXiv 2024```     
 [[Paper](https://arxiv.org/abs/2410.05431)] [[Code](https://github.com/martinandrae/Continuous-Ensemble-Forecasting)]
