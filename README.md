@@ -30,6 +30,10 @@
 <img src="https://github.com/JimengShi/AI-Models-Weather-and-Climate/blob/main/figs/frameworks.jpg" alt="taxonomy" width="800"/> 
 </div>
 
+<div align="center">
+<img src="https://github.com/JimengShi/AI-Models-Weather-and-Climate/blob/main/figs/review" alt="review" width="800"/> 
+</div>
+
 <!--------------------------------------  Predictive Models  --------------------------------------> 
 <h2 id="predictive-learning">👉👉 Predictive Models</h2>
 
