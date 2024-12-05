@@ -31,7 +31,7 @@
 </div>
 
 <div align="center">
-<img src="https://github.com/JimengShi/AI-Models-Weather-and-Climate/blob/main/figs/review" alt="review" width="800"/> 
+<img src="https://github.com/JimengShi/AI-Models-Weather-and-Climate/blob/main/figs/review.jpg" alt="review" width="800"/> 
 </div>
 
 <!--------------------------------------  Predictive Models  --------------------------------------> 
