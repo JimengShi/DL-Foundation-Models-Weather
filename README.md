@@ -94,7 +94,7 @@
 <h3 id="domain-predictive-learning">Domain-Specific Models</h3>
 <h4 id="domain-predictive-learning-transformer">Transformer</h4>
 
-- **(SwinUnet)** _Spatiotemporal vision transformer for short time weather forecasting._ ```IEEE BigData 2022```     
+- **(SwinUnet)** _Spatiotemporal vision transformer for short time weather forecasting_ ```IEEE BigData 2022```     
 [[Paper](https://ieeexplore.ieee.org/document/9671442)] [[Code](https://github.com/bojesomo/Weather4Cast2021-SwinUNet3D)] 
 
 - **(Earthformer)** _Earthformer: Exploring Space-Time Transformers for Earth System Forecasting_ ```NeurIPS 2022```     
@@ -192,7 +192,7 @@
 <h3 id="domain-generative-learning">Domain-Specific Models</h3>
 <h4 id="domain-generative-learning-diffusion">Diffusion Models</h4>
 
-- **(LDMRain)** _Latent diffusion models for generative precipitation nowcast-ing with accurate uncertainty quantification._ ```arXiv 2023```     
+- **(LDMRain)** _Latent diffusion models for generative precipitation nowcast-ing with accurate uncertainty quantification_ ```arXiv 2023```     
 [[Paper](https://arxiv.org/abs/2304.12891)] [[Code](https://github.com/MeteoSwiss/ldcast)] 
 
 - **(PreDiff)** _PreDiff: Precipitation Nowcasting with Latent Diffusion Models_ ```NeurIPS 2023```     
@@ -214,7 +214,7 @@
 
 <h4 id="domain-generative-learning-gan">GANs</h4>
 
-- **(GANRain)** _Skillful precipitation nowcasting using deep generative models of radar._ ```Nature 2021```     
+- **(GANRain)** _Skillful precipitation nowcasting using deep generative models of radar_ ```Nature 2021```     
 [[Paper](https://www.nature.com/articles/s41586-021-03854-z)] [[Code](https://github.com/openclimatefix/skillful_nowcasting)] 
 
 - **(MultiScaleGAN)** _Experimental Study on Generative Adversarial Network for Precipitation Nowcasting_ ```IEEE TRANSACTIONS ON GEOSCIENCE AND REMOTE SENSING 2022```     
