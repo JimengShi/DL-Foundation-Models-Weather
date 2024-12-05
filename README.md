@@ -145,8 +145,7 @@
 
 <h4 id="domain-predictive-learning-mamba">Mamba</h4>
 
-- **(MetMamba)** _MetMamba: Regional Weather Forecasting with Spatial-Temporal Mamba Model_ ```arXiv 2024```     
-[[Paper](https://arxiv.org/abs/2408.06400)] 
+- **(MetMamba)** _MetMamba: Regional Weather Forecasting with Spatial-Temporal Mamba Model_ ```arXiv 2024```     [[Paper](https://arxiv.org/abs/2408.06400)] 
 
 - **(MambaDS)** _MambaDS: Near-Surface Meteorological Field Downscaling With Topography Constrained Selective State-Space Modeling_ ```IEEE Transactions on Geoscience and Remote Sensing 2024```     
 [[Paper](https://ieeexplore.ieee.org/abstract/document/10752514)] 
