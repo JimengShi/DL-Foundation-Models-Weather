@@ -30,7 +30,7 @@
 <img src="https://github.com/JimengShi/AI-Models-Weather-and-Climate/blob/main/figs/frameworks.jpg" alt="taxonomy" width="800"/> 
 </div>
 
-<!-------------------------------------- Predictive Models  --------------------------------------> 
+<!-------------------------------------- 👍 Predictive Models  --------------------------------------> 
 <h2 id="predictive-learning">Predictive Models</h2>
 
 <h3 id="general-predictive-learning">General-Purpose Large Models</h3>
@@ -170,7 +170,7 @@
 
 
 
-<!-------------------------------------- Generative Models  --------------------------------------> 
+<!-------------------------------------- 👍 Generative Models  --------------------------------------> 
 <h2 id="generative-learning">Generative Models</h2>
 <h3 id="general-generative-learning">General-Purpose Large Models</h3>
 <h4 id="general-generative-learning-diffusion">Diffusion Models</h4>
@@ -229,7 +229,7 @@
 
 
 
-<!-------------------------------------- Foundation Models  --------------------------------------> 
+<!-------------------------------------- 👍 Foundation Models  --------------------------------------> 
 <h2 id="pretraining-finetuning">Foundation Models</h2>
 
 - **(ClimaX)** _ClimaX: A foundation model for weather and climate_ ```ICML 2023```     
