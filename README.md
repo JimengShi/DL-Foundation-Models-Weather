@@ -28,7 +28,7 @@
   - [Sea Surface Temperature](#sst)
   - [Flood](flood)
   - [Drought](#drought)
-  - [Tropical Storms/Cyclones and Hurricanes](tropical-storms)
+  - [Tropical Storms/Cyclones and Hurricanes](#tropical-storms)
   - [Wildfire](#wildfire)
  
 
