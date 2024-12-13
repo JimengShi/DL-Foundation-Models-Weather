@@ -24,8 +24,12 @@
 - [Foundation Models](#pretraining-finetuning)
 - [Applications](#application)
   - [Precipitation](#percipitation)
+  - [Air Quality](#air-quality)
+  - [Sea Surface Temperature](#sst)
   - [Flood](flood)
-  - [SST](sst)
+  - [Drought](#drought)
+  - [Tropical Storms/Cyclones and Hurricanes](tropical-storm)
+  - [Wildfire](#wildfire)
  
 
 
@@ -260,15 +264,27 @@
 <h2 id="application">Applications</h2>
 
 
-<h3 id="precipitation"> Precipitation</h2>
+<h3 id="precipitation"> Precipitation</h3>
+df
 
-<h3 id="flood"> Flood</h2>
+<h3 id="air-quality"> Air Quality </h3>
+df
+
+<h3 id="sst"> Sea Surface Temperature </h3>
+dfd
+
+<h3 id="flood"> Flood </h3>
+df
+
+<h3 id="drought"> Drought </h3>
+df
+
+<h3 id="tropical-storm"> Tropical Storms/Cyclones and Hurricanes </h3>
+df
 
 
-<h3 id="sst"> SST </h2>
-
-
-
+<h3 id="wildfire"> Wildfire </h3>
+df
 
 
 
