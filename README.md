@@ -22,6 +22,8 @@
     - [Diffusion Models](#domain-generative-learning-diffusion)
     - [GANs](#domain-generative-learning-gan)
 - [Foundation Models](#pretraining-finetuning)
+- [Applications]
+  - [Precipitation](#percipitation)
  
 
 
@@ -254,6 +256,18 @@
 
 
 ## Applications
+<h2 id="precipitation"> Precipitation</h2>
+
+<h2 id="flood"> Flood</h2>
+
+
+<h2 id="sst"> SST </h2>
+
+
+
+
+
+
 - Latent Diffusion Model for Quantitative Precipitation Estimation and Forecast at km Scale. [[paper](https://d197for5662m48.cloudfront.net/documents/publicationstatus/211030/preprint_pdf/76ff62db3b13a23d0922b2d7690df6f6.pdf)]
 - PreDiff: Precipitation Nowcasting with Latent Diffusion Models [[paper](https://arxiv.org/pdf/2307.10422)]
 - GenCast: GenCast: Diffusion-based ensemble forecasting for medium-range weather [[paper](https://arxiv.org/pdf/2312.15796v1)]
