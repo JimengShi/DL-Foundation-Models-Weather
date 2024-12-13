@@ -22,8 +22,10 @@
     - [Diffusion Models](#domain-generative-learning-diffusion)
     - [GANs](#domain-generative-learning-gan)
 - [Foundation Models](#pretraining-finetuning)
-- [Applications]
+- [Applications](#application)
   - [Precipitation](#percipitation)
+  - [Flood](flood)
+  - [SST](sst)
  
 
 
@@ -255,13 +257,15 @@
 
 
 
-## Applications
-<h2 id="precipitation"> Precipitation</h2>
-
-<h2 id="flood"> Flood</h2>
+<h2 id="application">Applications</h2>
 
 
-<h2 id="sst"> SST </h2>
+<h3 id="precipitation"> Precipitation</h2>
+
+<h3 id="flood"> Flood</h2>
+
+
+<h3 id="sst"> SST </h2>
 
 
 
