@@ -28,7 +28,7 @@
   - [Sea Surface Temperature](#sst)
   - [Flood](flood)
   - [Drought](#drought)
-  - [Tropical Storms/Cyclones and Hurricanes](tropical-storm)
+  - [Tropical Storms/Cyclones and Hurricanes](tropical-storms)
   - [Wildfire](#wildfire)
  
 
@@ -279,7 +279,7 @@ df
 <h3 id="drought"> Drought </h3>
 df
 
-<h3 id="tropical-storm"> Tropical Storms/Cyclones and Hurricanes </h3>
+<h3 id="tropical-storms"> Tropical Storms/Cyclones and Hurricanes </h3>
 df
 
 
