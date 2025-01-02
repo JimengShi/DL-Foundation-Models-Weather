@@ -77,6 +77,8 @@
 - **(HEAL-ViT)** _HEAL-ViT: Vision Transformers on a spherical mesh for medium-range weather forecasting_ ```arXiv 2024```     
 [[Paper](https://arxiv.org/abs/2403.17016)] 
 
+- **(TianXing)** _ linear complexity transformer model with explicit attention decay for global weather forecasting_ ```Advances in Atmospheric Sciences```     
+[[Paper](https://link.springer.com/article/10.1007/s00376-024-3313-9)] [[Code](https://link.springer.com/article/10.1007/s00376-024-3313-9)]
 
 
 <h4 id="general-predictive-learning-gnn">GNN</h4>
