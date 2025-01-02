@@ -119,9 +119,14 @@
 - **(Rainformer)** _Rainformer: Features Extraction Balanced Network for Radar-Based Precipitation Nowcasting_ ```IEEE Geoscience and Remote Sensing Letters 2022```     
 [[Paper](https://ieeexplore.ieee.org/abstract/document/9743916)] [[Code](https://github.com/Zjut-MultimediaPlus/Rainformer)]
 
-- **(Fformer)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
+- **(PFformer)** _PFformer: A Time-Series Forecasting Model for Short-Term Precipitation Forecasting_ ```IEEE Access 2024```     
 [[Paper](https://ieeexplore.ieee.org/abstract/document/10678751)] 
 
+- **(OMG-HD)** _OMG-HD: A high-resolution ai weather model for end-to-end forecasts from observations_ ```arXiv 2024```     
+[[Paper](https://arxiv.org/pdf/2412.18239)]
+
+- **(U-STN)** _Towards physics-inspired data-driven weather forecasting: integrating data assimilation with a deep spatial-transformer-based u-net in a case study with era5_ ```Geoscientific Model Development 2024```     
+[[Paper](https://arxiv.org/pdf/2412.18239)]  [[Code](https://zenodo.org/records/6112374)]
 
 
 <h4 id="domain-predictive-learning-gnn">GNN</h4>
