@@ -265,6 +265,8 @@
 - **(Prithvi WxC)** _Prithvi WxC: Foundation Model for Weather and Climate_ ```arXiv 2024```     
 [[Paper](https://arxiv.org/abs/2409.13598)] [[Code](https://github.com/NASA-IMPACT/Prithvi-WxC)]
 
+- **(AtmosArena)** _AtmosArena: Benchmarking Foundation Models for Atmospheric Sciences_ ```NeurIPS 2024 Workshop FM4Science```     
+[[Paper](https://openreview.net/forum?id=cUucUH9y0s)] [[Code](https://github.com/tung-nd/atmos-arena?tab=readme-ov-file)]
 
 
 
