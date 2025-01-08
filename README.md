@@ -276,7 +276,7 @@ working ...
 
 <h3 id="precipitation"> Precipitation</h3>
 - Deep Learning and the Weather Forecasting Problem: Precipitation Nowcasting. [[Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119646181.ch15)]
-
+- Latent Diffusion Model for Quantitative Precipitation Estimation and Forecast at km Scale. [[Paper](https://d197for5662m48.cloudfront.net/documents/publicationstatus/211030/preprint_pdf/76ff62db3b13a23d0922b2d7690df6f6.pdf)]
 <h3 id="air-quality"> Air Quality </h3>
 df
 
