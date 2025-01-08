@@ -275,7 +275,7 @@
 working ...
 
 <h3 id="precipitation"> Precipitation</h3>
-df
+- Deep Learning and the Weather Forecasting Problem: Precipitation Nowcasting. [[Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119646181.ch15)]
 
 <h3 id="air-quality"> Air Quality </h3>
 df
