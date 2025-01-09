@@ -389,13 +389,22 @@
 
  
 <h3 id="tropical-storms"> Tropical Storms/Cyclones and Hurricanes </h3>
-df
 
+- Predicting tropical cyclogenesis us- ing a deep learning method from gridded satellite and era5 reanalysis data in the western north pacific basin. [[Paper](https://ieeexplore.ieee.org/document/9399663)]
+- Predicting tropical cyclone formation with deep learning. [[Paper](https://journals.ametsoc.org/view/journals/wefo/39/1/WAF-D-23-0103.1.xml)]
+- Improvement in forecasting short-term tropical cyclone intensity change and their rapid intensification using deep learning. [[Paper](https://journals.ametsoc.org/view/journals/aies/3/2/AIES-D-23-0052.1.xml)]
+- Tropical cyclone track forecasting using fused deep learning from aligned reanalysis data. [[Paper](https://arxiv.org/abs/1910.10566)]
+- A novel data-driven tropical cyclone track prediction model based on cnn and gru with multi-dimensional feature selection. [[Paper](https://ieeexplore.ieee.org/document/9085360)]
+- Near real-time hurricane rainfall forecasting using convolutional neural network models with integrated multi-satellite retrievals for gpm (imerg) product. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0169809522000230)]
+- Advanced hybrid cnn-bilstm model augmented with ga and ffo for enhanced cyclone intensity forecasting. [[Paper](https://www.sciencedirect.com/science/article/pii/S1110016824001984)]
+- Forecasting formation of a tropical cyclone using reanalysis data. [[Paper](https://arxiv.org/abs/2212.06149)]
+- Predicting landfall’s location and time of a tropical cyclone using reanalysis data. [[Paper](https://arxiv.org/abs/2103.16108)]
+- Deep learning for down-scaling tropical cyclone rainfall to hazard-relevant spatial scales. [[Paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JD038163)]
+- Tropical cyclone forecast using multitask deep learning framework. [[Paper](https://ieeexplore.ieee.org/document/9634051)]
+- Forecasting tropical cyclones with cascaded diffusion models. [[Paper](https://arxiv.org/abs/2310.01690)]
+- Advancing storm surge forecasting from scarce observation data: A causal-inference based spatio-temporal graph neural network approach. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0378383924000607)]
 
 <h3 id="wildfire"> Wildfire </h3>
-df
-
-
 
 - Latent Diffusion Model for Quantitative Precipitation Estimation and Forecast at km Scale. [[Paper](https://d197for5662m48.cloudfront.net/documents/publicationstatus/211030/preprint_pdf/76ff62db3b13a23d0922b2d7690df6f6.pdf)]
 - 
