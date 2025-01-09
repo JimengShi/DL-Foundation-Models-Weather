@@ -423,6 +423,7 @@
 - Forest fire prediction based on time series networks and remote sensing images. [[Paper](https://www.mdpi.com/1999-4907/15/7/1221)]
 
 <h3 id="wildfire"> Others </h3>
+
 - ChatClimate: Grounding conversational AI in climate science, in Nature Communications Earth & Environment 2023. [[Paper](https://www.nature.com/articles/s43247-023-01084-x)]
 - spateGAN: Spatio-Temporal Downscaling of Rainfall Fields Using a cGAN Approach, Earth and Space Science 2023. [[Paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023EA002906#:~:text=We%20propose%20spateGAN%2C%20a%20novel,wide%20radar%20observations%20for%20Germany.)]
 - OceanGPT: A Large Language Model for Ocean Science Tasks, in arXiv 2023. [paper] [official code]
