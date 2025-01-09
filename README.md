@@ -406,22 +406,25 @@
 
 <h3 id="wildfire"> Wildfire </h3>
 
-- Latent Diffusion Model for Quantitative Precipitation Estimation and Forecast at km Scale. [[Paper](https://d197for5662m48.cloudfront.net/documents/publicationstatus/211030/preprint_pdf/76ff62db3b13a23d0922b2d7690df6f6.pdf)]
-- 
-- GenCast: GenCast: Diffusion-based ensemble forecasting for medium-range weather [[Paper](https://arxiv.org/pdf/2312.15796v1)]
+- Wildfire spreading prediction using multimodal data and deep neural network approach. [[Paper](https://www.nature.com/articles/s41598-024-52821-x)]
+- Deep learning provides substantial improvements to county-level fire weather forecasting over the western united states. [[Paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022MS002995#:~:text=The%20predictability%20of%20extreme%20danger,for%20county%2Dlevel%20fire%20forecasting.)]
+- Next-day wildfire spread: A machine learning dataset to predict wildfire spreading from remote-sensing data. [[Paper](https://ieeexplore.ieee.org/document/9840400)]
+- The large-scale wildfire spread prediction using a multi-kernel convolutional neural network. [[Paper](https://isprs-annals.copernicus.org/articles/X-4-W1-2022/483/2023/)]
+- Comparison of recurrent neural network architectures for wildfire spread modeling. [[Paper](https://arxiv.org/abs/2005.13040)]
+- Comparative analysis of hybrid long short-term memory models for fire danger index forecasting with weather data. [[Paper](https://www.researchgate.net/publication/378764435_Comparative_Analysis_of_Hybrid_Long_Short-Term_Memory_Models_for_Fire_Danger_Index_Forecasting_with_Weather_Data)]
+- A comparative study on forest fire prediction using arima, sarima, lstm, and gru methods. [[Paper](https://www.researchgate.net/publication/374316416_A_Comparative_Study_on_Forest_Fire_Prediction_using_ARIMA_SARIMA_LSTM_and_GRU_Methods)]
+- Cnn-bilstm: A novel deep learning model for near-real-time daily wildfire spread prediction. [[Paper](https://www.mdpi.com/2072-4292/16/8/1467)]
+- Firepred: A hybrid multi-temporal convolutional neural network model for wildfire spread prediction. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1574954123003114)]
+- Recurrent convolutional deep neural networks for modeling time-resolved wildfire spread behavior. [[Paper](https://arxiv.org/abs/2210.16411)]
+- Spatiotemporal attention convlstm networks for predicting and physically interpreting wildfire spread. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/B9780323917377000098)]
+- Capturing and interpreting wildfire spread dynamics: attention-based spatiotemporal models using convlstm networks. [[Paper](https://www.sciencedirect.com/science/article/pii/S1574954124003029)]
+- Mitigating greenhouse gas emissions through generative adversarial networks based wildfire prediction. [[Paper](https://arxiv.org/abs/2108.08952)]
+- Modeling wildfire spread with an irregular graph network. [[Paper](https://www.mdpi.com/2571-6255/5/6/185)]
+- Forest fire prediction based on time series networks and remote sensing images. [[Paper](https://www.mdpi.com/1999-4907/15/7/1221)]
+
+<h3 id="wildfire"> Others </h3>
 - ChatClimate: Grounding conversational AI in climate science, in Nature Communications Earth & Environment 2023. [[Paper](https://www.nature.com/articles/s43247-023-01084-x)]
-- GenCast: Diffusion-based ensemble forecasting for medium-range weather, in arXiv 2023. [Paper](https://arxiv.org/abs/2312.15796)]
 - spateGAN: Spatio-Temporal Downscaling of Rainfall Fields Using a cGAN Approach, Earth and Space Science 2023. [[Paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023EA002906#:~:text=We%20propose%20spateGAN%2C%20a%20novel,wide%20radar%20observations%20for%20Germany.)]
-- Neural General Circulation Models, in arXiv 2023. [[Paper]](https://arxiv.org/abs/2311.07222)
-- Accurate Medium-Range Global Weather Forecasting with 3D Neural Networks, in Nature 2023. [paper] [official code]
-- ClimaX: A Foundation Model for Weather and Climate, in arXiv 2023. [pape]] [official code]
-- GraphCast: Learning Skillful Medium-Range Global Weather Forecasting, in arXiv 2022. [paper] [official code]
-- FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operator, in arXiv 2022. [paper] [official code]
-- W-MAE: Pre-Trained Weather Model with Masked Autoencoder for Multi-Variable Weather Forecasting, in arXiv 2023. [paper] [official code]
-- FengWu: Pushing the Skillful Global Medium-range Weather Forecast beyond 10 Days Lead, in arXiv 2023. [paper]
-- FuXi: A cascade machine learning forecasting system for 15-day global weather forecast, in arXiv 2023. [paper] [official code]
 - OceanGPT: A Large Language Model for Ocean Science Tasks, in arXiv 2023. [paper] [official code]
 - IBMWeatherGen: Stochastic Weather Generator Tool, [[Code](https://github.com/IBM/IBMWeatherGen/)]
-- Diffusion Weather, [[Code](https://github.com/openclimatefix/diffusion_weather)]
-- Diffusion Model for Time Series, SpatioTemporal and Tabular Data, [[Paper](https://github.com/yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model#weather)]
-- https://github.com/diff-usion/Awesome-Diffusion-Models, [[Paper](https://github.com/diff-usion/Awesome-Diffusion-Models)]
+
