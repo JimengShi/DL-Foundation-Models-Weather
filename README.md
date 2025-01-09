@@ -346,7 +346,21 @@ working ...
 
 
 <h3 id="flood"> Flood </h3>
-df
+
+- Evaluation of artificial intelligence models for flood and drought forecasting in arid and tropical regions. [[Paper](https://www.sciencedirect.com/science/article/pii/S1364815221001791?casa_token=Vc_xmoV6NzkAAAAA:MUqa-UqGzNVB345ag6q4oMXuUxz6kfUI4pZimbZw3XW8G3iXTNQTcZA6TJprKml1rXM4TW4y26U)]
+- Flood forecasting with machine learning models in an operational framework. [[Paper](https://hess.copernicus.org/articles/26/4013/2022/hess-26-4013-2022.html)]
+- Particle swarm optimization based LSTM networks for water level forecasting: A case study on Bangladesh river network. [[Paper](https://www.sciencedirect.com/science/article/pii/S2590123023000786)]
+- Prediction of Flow Based on a CNN-LSTM Combined Deep Learning Approach. [[Paper](https://www.mdpi.com/2073-4441/14/6/993)]
+- Designing Deep-Based Learning Flood Forecast Model With ConvLSTM Hybrid Algorithm. [[Paper](https://ieeexplore.ieee.org/abstract/document/9378529)]
+- Improving urban flood prediction using LSTM-DeepLabv3+ and Bayesian optimization with spatiotemporal feature fusion. [[Paper](https://www.sciencedirect.com/science/article/pii/S0022169424001379?casa_token=Wz4lAK6f5f0AAAAA:3RGV2Sz9_roQ0QY280kVKVFQHxWPLnqBkPISdPlMVh-TM-jtThoZj7wGjhv0TlLAfGRAvnkBP7c)]
+- The Merit of River Network Topology for Neural Flood Forecasting. [[Paper](https://arxiv.org/abs/2405.19836)]
+- FloodGNN-GRU: a spatio-temporal graph neural network for flood prediction. [[Paper](https://www.cambridge.org/core/journals/environmental-data-science/article/floodgnngru-a-spatiotemporal-graph-neural-network-for-flood-prediction/93BA1DA8D6ECC93D985656C3BC1EA3DE)]
+- Graph Transformer Network for Flood Forecasting with Heterogeneous Covariates. [[Paper](https://arxiv.org/abs/2310.07631)]
+- FIDLAR: Forecast-Informed Deep Learning Architecture for Flood Mitigation. [[Paper](https://arxiv.org/abs/2402.13371)]
+- Data-driven and knowledge-guided denoising diffusion model for flood forecasting. [[Paper](https://www.sciencedirect.com/science/article/pii/S0957417423034103?casa_token=NUAsUus_qwQAAAAA:VqPjUuJTU_O_BAqwr0uhqu1qYAv2LZwE00gJVd5XYZUJy4I7XdzUCP4By8GLQHbGYGAAue7cVxo)]
+- DRUM: Diffusion-based runoff model for probabilistic flood forecasting. [[Paper](https://arxiv.org/abs/2412.11942)]
+- Generalizing rapid flood predictions to unseen urban catchments with conditional generative adversarial networks. [[Paper](https://www.sciencedirect.com/science/article/pii/S0022169423002184?casa_token=_ZL7FQaR1M8AAAAA:K0TPEufceOYU359cunDbt4_jn_7QgVkJDLguPS8cvX4ibGraKYk1x39lAkGvK3lxz71O3gZqZ-A)]
+
 
 <h3 id="drought"> Drought </h3>
 df
