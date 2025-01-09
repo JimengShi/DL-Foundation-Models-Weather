@@ -300,30 +300,35 @@ working ...
 - AENN: A GENERATIVE ADVERSARIAL NEURAL NETWORK FOR WEATHER RADAR ECHO EXTRAPOLATION. [[Paper](https://isprs-archives.copernicus.org/articles/XLII-3-W9/89/2019/)]
 - MPL-GAN: Toward Realistic Meteorological Predictive Learning Using Conditional GAN. [[Paper](https://ieeexplore.ieee.org/abstract/document/9094665)]
 - Skillful Radar-Based Heavy Rainfall Nowcasting Using Task-Segmented Generative Adversarial Network. [[Paper](https://ieeexplore.ieee.org/abstract/document/10182305?casa_token=03L4g8JiYTEAAAAA:gKbB8BVQBKQ2gYm5AnvZcMFXirf2W39tsgobHtPJ9Yu-LvIkDtbxN8guCUVV9zb0__FVyWJlrpM)]
--   [[Paper]()]
--    [[Paper]()]
--     [[Paper]()]
--  [[Paper]()]
--   [[Paper]()]
--    [[Paper]()]
--     [[Paper]()]
--  [[Paper]()]
--   [[Paper]()]
--    [[Paper]()]
+- A Self-Attention Causal LSTM Model for Precipitation Nowcasting. [[Paper](https://ieeexplore.ieee.org/abstract/document/10222152?casa_token=8ytUvFB7P5AAAAAA:PgPPkFfKojwr322LoWATBID8-xvQNIFQR6g_JFftTrV1ZGzCdZ2bTABYvQUWpXfjJJaW6yTcFJI)]
+- PCT-CycleGAN: Paired Complementary Temporal Cycle-Consistent Adversarial Networks for Radar-Based Precipitation Nowcasting. [[Paper](https://dl.acm.org/doi/abs/10.1145/3583780.3615006)]
+- Precipitation Nowcasting Using Physics Informed Discriminator Generative Models. [[Paper](https://ieeexplore.ieee.org/abstract/document/10715141?casa_token=7gFGZrMbB9AAAAAA:cAr18dEYqnYyiN2cCAo9Ko4IbJCsEl7S88GmwDJuul_8dfjYVU8Y472irOq94SI4JkPfYDQTMdY)]
+- GPTCast: a weather language model for precipitation nowcasting. [[Paper](https://arxiv.org/abs/2407.02089)]
+- Latent diffusion models for generative precipitation nowcasting with accurate uncertainty quantification. [[Paper](https://arxiv.org/abs/2304.12891)]
+- DiffCast: A Unified Framework via Residual Diffusion for Precipitation Nowcasting. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Yu_DiffCast_A_Unified_Framework_via_Residual_Diffusion_for_Precipitation_Nowcasting_CVPR_2024_paper.html)]
+- CasCast: Skillful High-resolution Precipitation Nowcasting via Cascaded Modelling. [[Paper](https://arxiv.org/abs/2402.04290)]
+
 
 <h3 id="air-quality"> Air Quality </h3>
 
--  [[Paper]()]
--   [[Paper]()]
--    [[Paper]()]
--     [[Paper]()]
--  [[Paper]()]
--   [[Paper]()]
--    [[Paper]()]
--     [[Paper]()]
+- U-Air: when urban air quality inference meets big data. [[Paper](https://dl.acm.org/doi/abs/10.1145/2487575.2488188?casa_token=9V1RKEJDFZIAAAAA:3fuuGdFlRr4ey1P476Ny6BwEu-7WSjM0Welx-dCO4fG5_TVIXuiuSizbjU4Rtlitxrwz6vrpSZr11w)]
+- Forecasting of Air Quality Using an Optimized Recurrent Neural Network. [[Paper](https://www.mdpi.com/2227-9717/10/10/2117)]
+- Deep Distributed Fusion Network for Air Quality Prediction. [[Paper](https://dl.acm.org/doi/abs/10.1145/3219819.3219822?casa_token=LK4s9pUwvDkAAAAA:7yFVURBsJxlg-62o_LkKqA5Qmh-mO6rrTPzi6hKMM1GOyNSQSk0yhceg8pDzv6raaJtTqlKbsdo3WQ)]
+- Time Series Forecasting (TSF) Using Various Deep Learning Models. [[Paper](https://arxiv.org/abs/2204.11115)]
+- Group-Aware Graph Neural Network for Nationwide City Air Quality Forecasting. [[Paper](https://dl.acm.org/doi/full/10.1145/3631713?casa_token=zv8LjXMKyKcAAAAA%3AZQYmgVEHyBgQWfiND7Os4eJ_4VCkfKYSFZ9TJK3ECIE7R3tFdURJW_w_jZx35SoRbMCRXrQdg2Dc2Q)]
+- PM2.5-GNN: A Domain Knowledge Enhanced Graph Neural Network For PM2.5 Forecasting. [[Paper](https://dl.acm.org/doi/abs/10.1145/3397536.3422208?casa_token=2RRTQZmacw0AAAAA:jpHTPD0Hn2rl1C0L3u1zEwgnZXnfn5WRxFpIOblWiNGD1WQN6YiWESMWa5zN7Sx5IuGcgOhJ-vSDxQ)]
+- AirFormer: Predicting Nationwide Air Quality in China with Transformers. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/26676)]
+- MGSFformer: A Multi-Granularity Spatiotemporal Fusion Transformer for air quality prediction. [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253524003853?casa_token=G8bt4mXSLWcAAAAA:8yTdn7Ij0KV6UwHikHTTwZGupQbST8VG6Ex3eeEtPYgFwGMwj0U2KoCM-iodTZd1q_VTA2uzjqE)]
+- Air Quality Prediction Using the Fractional Gradient-Based Recurrent Neural Network. [[Paper](https://onlinelibrary.wiley.com/doi/full/10.1155/2022/9755422)]
+- Air quality prediction using CNN+LSTM-based hybrid deep learning architecture. [[Paper](https://link.springer.com/article/10.1007/s11356-021-16227-w)]
+
 
 <h3 id="sst"> Sea Surface Temperature </h3>
-dfd
+
+-  [[Paper]()]
+-  [[Paper]()]
+-  [[Paper]()]
+-  [[Paper]()]
 
 <h3 id="flood"> Flood </h3>
 df
