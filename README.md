@@ -272,7 +272,6 @@
 
 <h2 id="application">Applications</h2>
 
-working ...
 
 <h3 id="precipitation"> Precipitation</h3>
 
