@@ -363,8 +363,25 @@ working ...
 
 
 <h3 id="drought"> Drought </h3>
-- Drought as a natural hazard: concepts and definitions. [[Paper](https://www.taylorfrancis.com/chapters/edit/10.4324/9781315830896-2/drought-natural-hazard-donald-wilhite)]
 
+- Drought as a natural hazard: concepts and definitions. [[Paper](https://www.taylorfrancis.com/chapters/edit/10.4324/9781315830896-2/drought-natural-hazard-donald-wilhite)]
+- Drought predic- tion based on spi and spei with varying timescales using lstm recurrent neural network. [[Paper](https://link.springer.com/article/10.1007/s00500-019-04120-1)]
+- Explain- able ai in drought forecasting. [[Paper](https://www.sciencedirect.com/science/article/pii/S2666827021000967)]
+- Drought prediction based on feature-based transfer learning and time series imaging. [[Paper](https://ieeexplore.ieee.org/document/9486838)]
+- Application of a hybrid arima-lstm model based on the spei for drought forecasting. [[Paper](https://link.springer.com/article/10.1007/s11356-021-15325-z)]
+- Evaluation of artificial intelligence models for flood and drought forecasting. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1364815221001791)]
+- Deep learning oriented satellite remote sensing for drought and prediction in agriculture. [[Paper](https://ieeexplore.ieee.org/document/9691608)]
+- Forecasting the propagation from meteorolog- ical to hydrological and agricultural drought in the huaihe river basin with machine learning methods. [[Paper](https://www.researchgate.net/publication/375968830_Forecasting_the_Propagation_from_Meteorological_to_Hydrological_and_Agricultural_Drought_in_the_Huaihe_River_Basin_with_Machine_Learning_Methods)]
+- Multivariate time series convo- lutional neural networks for long-term agricultural drought prediction under global warming. [[Paper](https://www.sciencedirect.com/science/article/pii/S0378377424000180)]
+- A novel intelligent deep learning predictive model for meteorological drought forecasting. [[Paper](https://link.springer.com/article/10.1007/s12652-022-03701-7)]
+- Harnessing deep learning for meteorological drought forecasts in the northern cape, south africa. [[Paper](https://www.researchgate.net/publication/385423967_Harnessing_Deep_Learning_for_Meteorological_Drought_Forecasts_in_the_Northern_Cape_South_Africa)]
+- Construction of an integrated drought monitoring model based on deep learning algorithms. [[Paper](https://www.mdpi.com/2072-4292/15/3/667)]
+- Drought prediction using artificial intelligence models based on climate data and soil moisture. [[Paper](https://www.nature.com/articles/s41598-024-70406-6)]
+- Advanced stacked integration method for forecasting long-term drought severity: Cnn with machine learning models. [[Paper](https://www.researchgate.net/publication/379754606_Advanced_stacked_integration_method_for_forecasting_long-term_drought_severity_CNN_with_machine_learning_models)]
+- Multiscale spatiotemporal meteorological drought prediction: A deep learning approach. [[Paper](https://www.sciencedirect.com/science/article/pii/S1674927824000534)]
+- Deep learning-oriented c-gan models for vegetative drought prediction on peninsular india. [[Paper](https://ieeexplore.ieee.org/document/10301647)]
+
+ 
 <h3 id="tropical-storms"> Tropical Storms/Cyclones and Hurricanes </h3>
 df
 
