@@ -343,7 +343,7 @@ working ...
 - Explainable deep learning for insights in El Niño and river flows. [[Paper](https://www.nature.com/articles/s41467-023-35968-5)]
 - Data-driven multi-step prediction and analysis of monthly rainfall using explainable deep learning. [[Paper](https://www.sciencedirect.com/science/article/pii/S0957417423016627?casa_token=v3lHtMH4K78AAAAA:PDf_e_rs3lu-78NOKSz37TV7G3gD3I0shLVc6xbv2fuNMDhwnKx-PEVezZeR5XUIkXtEGhb2bMs)]
 - An Interpretable Deep Learning Approach for Detecting Marine Heatwaves Patterns. [[Paper](https://www.mdpi.com/2076-3417/14/2/601)]
-
+- 3D-Geoformer: A self-attention–based neural network for three-dimensional multivariate modeling and its skillful ENSO predictions. [[Paper](https://www.science.org/doi/10.1126/sciadv.adf2827)]
 
 <h3 id="flood"> Flood </h3>
 
@@ -398,7 +398,6 @@ df
 - GenCast: Diffusion-based ensemble forecasting for medium-range weather, in arXiv 2023. [Paper](https://arxiv.org/abs/2312.15796)]
 - spateGAN: Spatio-Temporal Downscaling of Rainfall Fields Using a cGAN Approach, Earth and Space Science 2023. [[Paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023EA002906#:~:text=We%20propose%20spateGAN%2C%20a%20novel,wide%20radar%20observations%20for%20Germany.)]
 - Neural General Circulation Models, in arXiv 2023. [[Paper]](https://arxiv.org/abs/2311.07222)
-- 3D-Geoformer: A self-attention–based neural network for three-dimensional multivariate modeling and its skillful ENSO predictions, in Science Advances, 2023. [[Paper](https://www.science.org/doi/10.1126/sciadv.adf2827)]
 - Accurate Medium-Range Global Weather Forecasting with 3D Neural Networks, in Nature 2023. [paper] [official code]
 - ClimaX: A Foundation Model for Weather and Climate, in arXiv 2023. [pape]] [official code]
 - GraphCast: Learning Skillful Medium-Range Global Weather Forecasting, in arXiv 2022. [paper] [official code]
