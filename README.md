@@ -325,10 +325,25 @@ working ...
 
 <h3 id="sst"> Sea Surface Temperature </h3>
 
--  [[Paper]()]
--  [[Paper]()]
--  [[Paper]()]
--  [[Paper]()]
+- ENSO analysis and prediction using deep learning: A review. [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231222014722)]
+- Analyzing El Niño–Southern Oscillation Predictability Using Long-Short-Term-Memory Models. [[Paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018EA000423)]
+- Spatiotemporal Model Based on Deep Learning for ENSO Forecasts. [[Paper](https://www.mdpi.com/2073-4433/12/7/810)]
+- Deep learning for multi-year ENSO forecasts. [[Paper](https://www.nature.com/articles/s41586-019-1559-7)]
+- Forecasting the Indian Ocean Dipole With Deep Learning Techniques. [[Paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GL094407)]
+- Deep Residual Convolutional Neural Network Combining Dropout and Transfer Learning for ENSO Forecasting. [[Paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GL093531)]
+- DLENSO: A Deep Learning ENSO Forecasting Model. [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-29911-8_2)]
+- Graph Neural Networks for Improved El Niño Forecasting. [[Paper](https://arxiv.org/abs/2012.01598)]
+- Transformer for EI Niño-Southern Oscillation Prediction. [[Paper](https://ieeexplore.ieee.org/abstract/document/9504603?casa_token=99pEzfNOyYAAAAAA:Gb_ItwuxuAvu1nQXivM3yyL9ylErw3oIN9DJmT59wNs9RUV-p3KzjvPUx3tnEE3dv1lP1RrJ0TA)]
+- A self-attention–based neural network for three-dimensional multivariate modeling and its skillful ENSO predictions. [[Paper](https://www.science.org/doi/full/10.1126/sciadv.adf2827)]
+- Spatial-temporal transformer network for multi-year ENSO prediction. [[Paper](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2023.1143499/full)]
+- Adaptive Graph Spatial-Temporal Attention Networks for long lead ENSO prediction. [[Paper](https://www.sciencedirect.com/science/article/pii/S0957417424013599?casa_token=HSqO4BVVzDIAAAAA:GfL8nA06lSVxc-_XC3uzdueCfEA2a4kI9tTqQhKtcs-qY8mI0ZLih4Kb7ZSMeu902CdbgIGPNIw)]
+- ENSO dataset & comparison of deep learning models for ENSO forecasting. [[Paper](https://link.springer.com/article/10.1007/s12145-024-01295-6)]
+- Global Spatiotemporal Graph Attention Network for Sea Surface Temperature Prediction. [[Paper](https://ieeexplore.ieee.org/abstract/document/10056327?casa_token=CO9StPgrpQkAAAAA:32Ou82_YREM8yjfKFCQ--N09jzWEAq3CXQsjNINcsY_umsOPkcTj9pj-4lzPBFIEEGPYuKxCt-4)]
+- Physical Knowledge-Enhanced Deep Neural Network for Sea Surface Temperature Prediction. [[Paper](https://ieeexplore.ieee.org/abstract/document/10068549?casa_token=gCpdIk9IltAAAAAA:Flh27ULKiqDLIxSiXGilSO_NMHZJ5kipJshY85CWen3eF1nUk1jONSEGxXuaa-gdL96JmxvmT9I)]
+- Explainable deep learning for insights in El Niño and river flows. [[Paper](https://www.nature.com/articles/s41467-023-35968-5)]
+- Data-driven multi-step prediction and analysis of monthly rainfall using explainable deep learning. [[Paper](https://www.sciencedirect.com/science/article/pii/S0957417423016627?casa_token=v3lHtMH4K78AAAAA:PDf_e_rs3lu-78NOKSz37TV7G3gD3I0shLVc6xbv2fuNMDhwnKx-PEVezZeR5XUIkXtEGhb2bMs)]
+- An Interpretable Deep Learning Approach for Detecting Marine Heatwaves Patterns. [[Paper](https://www.mdpi.com/2076-3417/14/2/601)]
+
 
 <h3 id="flood"> Flood </h3>
 df
