@@ -277,10 +277,50 @@ working ...
 <h3 id="precipitation"> Precipitation</h3>
 
 - Deep Learning and the Weather Forecasting Problem: Precipitation Nowcasting. [[Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119646181.ch15)]
-- PRISMA: A systematic quantitative review on the performance of some of the recent short-term rainfall forecasting techniques [[Paper](https://iwaponline.com/jwcc/article/13/8/3004/89806/A-systematic-quantitative-review-on-the)]
+- PRISMA: A systematic quantitative review on the performance of some of the recent short-term rainfall forecasting techniques. [[Paper](https://iwaponline.com/jwcc/article/13/8/3004/89806/A-systematic-quantitative-review-on-the)]
+- Deep Learning Techniques in Extreme Weather Events: A Review [[Paper](https://arxiv.org/abs/2308.10995)]
+- Analysis, characterization, prediction, and attribution of extreme atmospheric events with machine learning and deep learning techniques: a review 
+ [[Paper](https://link.springer.com/article/10.1007/s00704-023-04571-5)]
+- Deep learning for precipitation nowcasting: A survey from the perspective of time series forecasting. [[Paper](https://arxiv.org/abs/2406.04867)]
+- Precipitation Nowcasting with Satellite Imagery. [[Paper](https://dl.acm.org/doi/abs/10.1145/3292500.3330762?casa_token=vc2v--4ntikAAAAA:qGIsv_DIQ1kZUgVo9EWssxBQKfMy1Zoo71em1L99Jo1ZtIp8IWylp1k4Cq5FccKergeXF_H3VOeCJw)]
+- RainNet v1.0: a convolutional neural network for radar-based precipitation nowcasting. [[Paper](https://gmd.copernicus.org/articles/13/2631/2020/gmd-13-2631-2020.html)]
+- Convective Precipitation Nowcasting Using U-Net Model. [[Paper](https://ieeexplore.ieee.org/abstract/document/9508500?casa_token=RKG0XnUfTgsAAAAA:0IaAEdjBy9ipavhcKrelhw-9Ey2bdACh297f60nlMqhrt0fMfWTvDgna4u9FtRWmrjtHhdWBzH8)]
+- NowCasting-Nets: Representation Learning to Mitigate Latency Gap of Satellite Precipitation Products Using Convolutional and Recurrent Neural Networks. [[Paper](https://ieeexplore.ieee.org/abstract/document/9732949?casa_token=nPuhy3vPFUMAAAAA:9MV3G2pjrCABmbj8SClabYlrwmWAmlFitucMEqkwSM-Ke0xugAEBNqgTPd-86jVSKwCtQ68wOXk)]
+- Domain Generalization Strategy to Train Classifiers Robust to Spatial-Temporal Shift. [[Paper](https://arxiv.org/abs/2212.02968)]
+- Region-Conditioned Orthogonal 3D U-Net for Weather4Cast Competition. [[Paper](https://arxiv.org/abs/2212.02059)]
+- Skilful nowcasting of extreme precipitation with NowcastNet. [[Paper](https://www.nature.com/articles/s41586-023-06184-4)]
+- Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting. [[Paper](https://proceedings.neurips.cc/paper/2015/hash/07563a3fe3bbe7e3ba84431ad9d055af-Abstract.html)]
+- PredRNN: Recurrent Neural Networks for Predictive Learning using Spatiotemporal LSTMs. [[Paper](https://proceedings.neurips.cc/paper/2017/hash/e5f6ad6ce374177eef023bf5d0c018b6-Abstract.html?ref=https://githubhelp.com)]
+- Nowformer: A Locally Enhanced Temporal Learner for Precipitation Nowcasting. [[Paper](https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/neurips2022/80/paper.pdf)]
+- Earthformer: Exploring Space-Time Transformers for Earth System Forecasting. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a2affd71d15e8fedffe18d0219f4837a-Abstract-Conference.html)]
+- Rainformer: Features Extraction Balanced Network for Radar-Based Precipitation Nowcasting. [[Paper](https://ieeexplore.ieee.org/abstract/document/9743916?casa_token=wMq7FLlDsqsAAAAA:oY6EF-_gaSRkre6_dtnEwkDiB-Le3Kr6Y32MMXQd2AFVVbK_fY8EWDkNvXfDwwtNeyXo4UW8Ces)]
+- The MS-RadarFormer: A Transformer-Based Multi-Scale Deep Learning Model for Radar Echo Extrapolation. [[Paper](https://www.mdpi.com/2072-4292/16/2/274)]
+- A Foundation Model for the Earth System. [[Paper](https://arxiv.org/abs/2405.13063)]
+- WeatherGFM: Learning A Weather Generalist Foundation Model via In-context Learning. [[Paper](https://arxiv.org/abs/2411.05420)]
+- AENN: A GENERATIVE ADVERSARIAL NEURAL NETWORK FOR WEATHER RADAR ECHO EXTRAPOLATION. [[Paper](https://isprs-archives.copernicus.org/articles/XLII-3-W9/89/2019/)]
+- MPL-GAN: Toward Realistic Meteorological Predictive Learning Using Conditional GAN. [[Paper](https://ieeexplore.ieee.org/abstract/document/9094665)]
+- Skillful Radar-Based Heavy Rainfall Nowcasting Using Task-Segmented Generative Adversarial Network. [[Paper](https://ieeexplore.ieee.org/abstract/document/10182305?casa_token=03L4g8JiYTEAAAAA:gKbB8BVQBKQ2gYm5AnvZcMFXirf2W39tsgobHtPJ9Yu-LvIkDtbxN8guCUVV9zb0__FVyWJlrpM)]
+-   [[Paper]()]
+-    [[Paper]()]
+-     [[Paper]()]
+-  [[Paper]()]
+-   [[Paper]()]
+-    [[Paper]()]
+-     [[Paper]()]
+-  [[Paper]()]
+-   [[Paper]()]
+-    [[Paper]()]
 
 <h3 id="air-quality"> Air Quality </h3>
-df
+
+-  [[Paper]()]
+-   [[Paper]()]
+-    [[Paper]()]
+-     [[Paper]()]
+-  [[Paper]()]
+-   [[Paper]()]
+-    [[Paper]()]
+-     [[Paper]()]
 
 <h3 id="sst"> Sea Surface Temperature </h3>
 dfd
