@@ -363,7 +363,7 @@ working ...
 
 
 <h3 id="drought"> Drought </h3>
-df
+- Drought as a natural hazard: concepts and definitions. [[Paper](https://www.taylorfrancis.com/chapters/edit/10.4324/9781315830896-2/drought-natural-hazard-donald-wilhite)]
 
 <h3 id="tropical-storms"> Tropical Storms/Cyclones and Hurricanes </h3>
 df
