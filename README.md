@@ -309,6 +309,7 @@
 - PCT-CycleGAN: Paired Complementary Temporal Cycle-Consistent Adversarial Networks for Radar-Based Precipitation Nowcasting. [[Paper](https://dl.acm.org/doi/abs/10.1145/3583780.3615006)]
 - Precipitation Nowcasting Using Physics Informed Discriminator Generative Models. [[Paper](https://ieeexplore.ieee.org/abstract/document/10715141?casa_token=7gFGZrMbB9AAAAAA:cAr18dEYqnYyiN2cCAo9Ko4IbJCsEl7S88GmwDJuul_8dfjYVU8Y472irOq94SI4JkPfYDQTMdY)]
 - GPTCast: a weather language model for precipitation nowcasting. [[Paper](https://arxiv.org/abs/2407.02089)]
+- PreDiff: Precipitation Nowcasting with Latent Diffusion Models [[Paper](https://arxiv.org/pdf/2307.10422)]
 - Latent diffusion models for generative precipitation nowcasting with accurate uncertainty quantification. [[Paper](https://arxiv.org/abs/2304.12891)]
 - DiffCast: A Unified Framework via Residual Diffusion for Precipitation Nowcasting. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Yu_DiffCast_A_Unified_Framework_via_Residual_Diffusion_for_Precipitation_Nowcasting_CVPR_2024_paper.html)]
 - CasCast: Skillful High-resolution Precipitation Nowcasting via Cascaded Modelling. [[Paper](https://arxiv.org/abs/2402.04290)]
@@ -397,7 +398,7 @@ df
 
 
 - Latent Diffusion Model for Quantitative Precipitation Estimation and Forecast at km Scale. [[Paper](https://d197for5662m48.cloudfront.net/documents/publicationstatus/211030/preprint_pdf/76ff62db3b13a23d0922b2d7690df6f6.pdf)]
-- PreDiff: Precipitation Nowcasting with Latent Diffusion Models [[Paper](https://arxiv.org/pdf/2307.10422)]
+- 
 - GenCast: GenCast: Diffusion-based ensemble forecasting for medium-range weather [[Paper](https://arxiv.org/pdf/2312.15796v1)]
 - ChatClimate: Grounding conversational AI in climate science, in Nature Communications Earth & Environment 2023. [[Paper](https://www.nature.com/articles/s43247-023-01084-x)]
 - GenCast: Diffusion-based ensemble forecasting for medium-range weather, in arXiv 2023. [Paper](https://arxiv.org/abs/2312.15796)]
