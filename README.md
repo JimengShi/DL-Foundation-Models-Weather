@@ -6,6 +6,7 @@
 ## Contents
 - [Predictive Models](#predictive-learning)
   - [General-Purpose Large Models](#general-predictive-learning)
+    - [CNN](#general-predictive-learning-cnn)
     - [Transformer](#general-predictive-learning-transformer)
     - [GNN](#general-predictive-learning-gnn)
     - [PhysicsAI](#general-predictive-learning-physicsai)
@@ -48,6 +49,11 @@
 <h2 id="predictive-learning">👉👉 Predictive Models</h2>
 
 <h3 id="general-predictive-learning">General-Purpose Large Models</h3>
+<h4 id="general-predictive-learning-cnn">CNN</h4>
+
+- **(FourCastNet 3)** _FourCastNet 3: A geometric approach to probabilistic machine-learning weather forecasting at scale_ ```arXiv 2025```     
+[[Paper](https://arxiv.org/pdf/2507.12144v1)] [[Code](https://github.com/NVIDIA/makani)]
+
 <h4 id="general-predictive-learning-transformer">Transformer</h4>
 
 - **(FourCastNet)** _FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators_ ```arXiv 2022```     
