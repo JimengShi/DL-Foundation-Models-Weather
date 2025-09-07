@@ -68,6 +68,9 @@
 - **(FengWu-4DVar)** _FengWu-4DVar: Coupling the Data-driven Weather Forecasting Model with 4D Variational Assimilation_ ```arXiv 2023```     
 [[Paper](https://arxiv.org/abs/2312.12455)] [[Code](https://github.com/OpenEarthLab/FengWu-4DVar)]
 
+- **(XiChen)** _XiChen: An observation-scalable fully AI-driven global weather forecasting system with 4D variational knowledge_ ```arXiv 2025```     
+[[Paper](https://arxiv.org/pdf/2507.09202)] [[Code](https://github.com/wuxinwang1997/XiChen_1.40625deg)]
+
 - **(SwinVRNN)** _SwinVRNN: A Data-Driven Ensemble Forecasting Model via Learned Distribution Perturbation_ ```JAMES 2023```     
 [[Paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022MS003211)] [[Code](https://github.com/tpys/wwprediction)]
 
