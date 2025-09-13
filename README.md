@@ -23,6 +23,7 @@
     - [Diffusion Models](#domain-generative-learning-diffusion)
     - [GANs](#domain-generative-learning-gan)
 - [Foundation Models](#pretraining-finetuning)
+- [Multi-modal Weather Models](#multi-modal-weather-model)
 - [Applications](#application)
   - [Precipitation](#percipitation)
   - [Air Quality](#air-quality)
@@ -282,6 +283,16 @@
 
 - **(AtmosArena)** _AtmosArena: Benchmarking Foundation Models for Atmospheric Sciences_ ```NeurIPS 2024 Workshop FM4Science```     
 [[Paper](https://openreview.net/forum?id=cUucUH9y0s)] [[Code](https://github.com/tung-nd/atmos-arena?tab=readme-ov-file)]
+
+
+
+<!-------------------------------------- Multi-modal Weather Models  --------------------------------------> 
+<h2 id="multi-modal-weather-model">👉👉 Multi-modal Weather Models</h2>
+
+- **(ClimateBench-M)** _ClimateBench-M: A Multi-Modal Climate Data Benchmark with a Simple Generative Method_ ```CIKM 2025```     
+[[Paper](https://arxiv.org/pdf/2504.073943)] [[Code](https://github.com/iDEA-iSAIL-Lab-UIUC/ClimateBench-M)]
+
+
 
 
 
