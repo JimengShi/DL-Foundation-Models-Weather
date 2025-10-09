@@ -105,10 +105,10 @@
 [[Paper](https://arxiv.org/abs/2202.07575)] [[Code](https://rkeisler.github.io/graph_weather/)]
 
 - **(AIFS)** _AIFS -- ECMWF's data-driven forecasting system_ ```arXiv 2024```     
-[[Paper](https://arxiv.org/abs/2406.01465)]
+[[Paper](https://arxiv.org/abs/2406.01465)] [[Code]()]
 
 - **(GraphDOP)** _GraphDOP: Towards skilful data-driven medium-range weather forecasts learnt and initialised directly from observations_ ```arXiv 2024```     
-[[Paper](https://www.arxiv.org/abs/2412.15687)] 
+[[Paper](https://www.arxiv.org/abs/2412.15687)] [[Code]()]
 
 
 
