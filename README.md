@@ -97,6 +97,10 @@
 - **(GraphCast)** _Graphcast: Learning skillful medium-range global weather forecasting_ ```Science 2023```     
 [[Paper](https://arxiv.org/abs/2212.12794)] [[Code](https://github.com/openclimatefix/graph_weather)]
 
+- **(OneForecast)** _OneForecast: A Universal Framework for Global and Regional Weather Forecasting_ ```ICML 2025```     
+[[Paper](https://arxiv.org/pdf/2502.00338)] [[Code](https://github.com/YuanGao-YG/OneForecast)]
+
+
 - **(GnnWeather)** _Forecasting Global Weather with Graph Neural Networks_ ```arXiv 2022```     
 [[Paper](https://arxiv.org/abs/2202.07575)] [[Code](https://rkeisler.github.io/graph_weather/)]
 
