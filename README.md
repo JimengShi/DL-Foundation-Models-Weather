@@ -61,7 +61,7 @@
 - **(FourCastNet)** _FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators_ ```arXiv 2022```     
 [[Paper](https://arxiv.org/abs/2202.11214)] [[Code](https://github.com/NVlabs/FourCastNet)]
 
-- **(FuXi)** _FuXi: a cascade machine learning forecasting system for 15-day global weather forecast_ ```Nature 2023```     
+- **(FuXi)** _FuXi: a cascade machine learning forecasting system for 15-day global weather forecast_ ```npj Climate and Atmospheric Science 2023```     
 [[Paper](https://www.nature.com/articles/s41612-023-00512-1)] [[Code](https://drive.google.com/drive/folders/1NhrcpkWS6MHzEs3i_lsIaZsADjBrICYV)]
 
 - **(FengWu)** _FengWu: Pushing the Skillful Global Medium-range Weather Forecast beyond 10 Days Lead_ ```arXiv 2023```     
