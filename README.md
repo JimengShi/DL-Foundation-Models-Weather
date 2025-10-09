@@ -24,6 +24,7 @@
     - [GANs](#domain-generative-learning-gan)
 - [Foundation Models](#pretraining-finetuning)
 - [Multi-modal Weather Models](#multi-modal-weather-model)
+- [Agentic Models for Climate & Weather](#agentic-model)
 - [Applications](#application)
   - [Precipitation](#percipitation)
   - [Air Quality](#air-quality)
@@ -291,6 +292,16 @@
 
 - **(ClimateBench-M)** _ClimateBench-M: A Multi-Modal Climate Data Benchmark with a Simple Generative Method_ ```CIKM 2025```     
 [[Paper](https://arxiv.org/pdf/2504.073943)] [[Code](https://github.com/iDEA-iSAIL-Lab-UIUC/ClimateBench-M)]
+
+- **(ClimateBench-M)** _ClimateBench-M: A Multi-Modal Climate Data Benchmark with a Simple Generative Method_ ```CIKM 2025```     
+[[Paper](https://arxiv.org/pdf/2504.073943)] [[Code](https://github.com/iDEA-iSAIL-Lab-UIUC/ClimateBench-M)]
+
+
+<!-------------------------------------- Agentic Models for Climate & Weather  --------------------------------------> 
+<h2 id="agentic-model">👉👉 Agentic Models</h2>
+
+- **(ClimateBench-M)** _Zephyrus: An Agentic Framework for Weather Science_ ```arXiv 2025```     
+[[Paper](https://arxiv.org/pdf/2510.04017v1)] [[Code]()]
 
 
 
