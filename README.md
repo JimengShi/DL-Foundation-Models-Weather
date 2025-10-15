@@ -458,7 +458,7 @@
 - Modeling wildfire spread with an irregular graph network. [[Paper](https://www.mdpi.com/2571-6255/5/6/185)]
 - Forest fire prediction based on time series networks and remote sensing images. [[Paper](https://www.mdpi.com/1999-4907/15/7/1221)]
 
-<h3 id="Renewable Energy"> Renewable Energy </h3>
+<h3 id="renewable-energy"> Renewable Energy </h3>
 - SolarSeer: Ultrafast and accurate 24-hour solar irradiance forecasts outperforming numerical weather prediction across the USA. [[Paper](https://arxiv.org/abs/2508.03590)] [[Code](https://github.com/microsoft/SolarSeer/tree/main)]  
 - Data-driven solar forecasting enables near-optimal economic decisions. [[Paper](https://arxiv.org/abs/2509.06925)]  
 - Data-driven Surface Solar Irradiance Estimation using Neural Operators at Global Scale. [[Paper](https://arxiv.org/abs/2411.08843)]  
