@@ -459,10 +459,12 @@
 - Forest fire prediction based on time series networks and remote sensing images. [[Paper](https://www.mdpi.com/1999-4907/15/7/1221)]
 
 <h3 id="renewable-energy"> Renewable Energy </h3>
-- SolarSeer: Ultrafast and accurate 24-hour solar irradiance forecasts outperforming numerical weather prediction across the USA. [[Paper](https://arxiv.org/abs/2508.03590)] [[Code](https://github.com/microsoft/SolarSeer/tree/main)]  
-- Data-driven solar forecasting enables near-optimal economic decisions. [[Paper](https://arxiv.org/abs/2509.06925)]  
-- Data-driven Surface Solar Irradiance Estimation using Neural Operators at Global Scale. [[Paper](https://arxiv.org/abs/2411.08843)]  
-- A machine learning model for hub-height short-term wind speed prediction. [[Paper](https://www.nature.com/articles/s41467-025-58456-4)] 
+
+- SolarSeer: Ultrafast and accurate 24-hour solar irradiance forecasts outperforming numerical weather prediction across the USA.  
+  [[Paper](https://arxiv.org/abs/2508.03590)][[Code](https://github.com/microsoft/SolarSeer/tree/main)]   
+- Data-driven solar forecasting enables near-optimal economic decisions. [[Paper](https://arxiv.org/abs/2509.06925)]    
+- Data-driven Surface Solar Irradiance Estimation using Neural Operators at Global Scale. [[Paper](https://arxiv.org/abs/2411.08843)]    
+- A machine learning model for hub-height short-term wind speed prediction. [[Paper](https://www.nature.com/articles/s41467-025-58456-4)]   
 
 <h3 id="wildfire"> Others </h3>
 
