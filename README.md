@@ -169,6 +169,9 @@
 
 <h4 id="domain-predictive-learning-rnn&cnn">RNN&CNN</h4>
 
+- **(Samudra)** _Samudra: An AI Global Ocean Emulator for Climate_ ```Geophysical Reseach Letters 2025```     
+[[Paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024GL114318)] [[Code](https://github.com/m2lines/Samudra)]
+
 - **(MetNet)** _MetNet: A Neural Weather Model for Precipitation Forecasting_ ```arXiv 2020```     
 [[Paper](https://arxiv.org/abs/2003.12140)] [[Code](https://drive.google.com/drive/folders/1X4ggyAdvkGcLGYaKUvygb0aCIZCBoVuW)]
 
