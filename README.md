@@ -221,6 +221,9 @@
 <h3 id="general-generative-learning">General-Purpose Large Models</h3>
 <h4 id="general-generative-learning-diffusion">Diffusion Models</h4>
 
+- **(OmniCast)** _OmniCast: A Masked Latent Diffusion Model for Weather Forecasting Across Time Scales_ ```NeurIPS 2025```     
+[[Paper](https://arxiv.org/pdf/2510.18707)] [[Code](https://github.com/tung-nd/omnicast)]
+
 - **(GenCast)** _GenCast: Diffusion-based ensemble forecasting for medium-range weather_ ```Nature 2024```     
 [[Paper](https://www.nature.com/articles/s41586-024-08252-9)] [[Code](https://github.com/google-deepmind/graphcast)]
 
