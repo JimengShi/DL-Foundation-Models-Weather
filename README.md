@@ -227,8 +227,8 @@
 - **(GenCast)** _GenCast: Diffusion-based ensemble forecasting for medium-range weather_ ```Nature 2024```     
 [[Paper](https://www.nature.com/articles/s41586-024-08252-9)] [[Code](https://github.com/google-deepmind/graphcast)]
 
-- **(CoDiCast)** _CoDiCast: Conditional Diffusion Model for Weather Prediction with Uncertainty Quantification_ ```arXiv 2024```     
-[[Paper](https://arxiv.org/abs/2409.05975)] [[Code](https://github.com/JimengShi/CoDiCast)]
+- **(CoDiCast)** _CoDiCast: Conditional Diffusion Model for Weather Prediction with Uncertainty Quantification_ ```IJCAI 2025```     
+[[Paper](https://www.ijcai.org/proceedings/2025/1095)] [[Code](https://github.com/JimengShi/CoDiCast)]
 
 - **(SEEDs)** _SEEDS: Emulation of Weather Forecast Ensembles with Diffusion Models_ ```Science Advances 2024```     
 [[Paper](https://www.science.org/doi/10.1126/sciadv.adk4489)] [[Code](https://github.com/google-research/google-research/tree/master/seeds)] 
