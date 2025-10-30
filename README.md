@@ -233,7 +233,7 @@
 - **(SEEDs)** _SEEDS: Emulation of Weather Forecast Ensembles with Diffusion Models_ ```Science Advances 2024```     
 [[Paper](https://www.science.org/doi/10.1126/sciadv.adk4489)] [[Code](https://github.com/google-research/google-research/tree/master/seeds)] 
 
-- **(ContinuousEnsCast)** _Continuous Ensemble Weather Forecasting with Diffusion models_ ```arXiv 2024```     
+- **(ContinuousEnsCast)** _Continuous Ensemble Weather Forecasting with Diffusion models_ ```ICLR 2025```     
 [[Paper](https://arxiv.org/abs/2410.05431)] [[Code](https://github.com/martinandrae/Continuous-Ensemble-Forecasting)]
 
 
