@@ -303,6 +303,10 @@
 
 - **(ClimateBench-M)** _ClimateBench-M: A Multi-Modal Climate Data Benchmark with a Simple Generative Method_ ```CIKM 2025```     
 [[Paper](https://arxiv.org/pdf/2504.073943)] [[Code](https://github.com/iDEA-iSAIL-Lab-UIUC/ClimateBench-M)]
+- **(TyphoFormer)** _TyphoFormer: Language-Augmented Transformer for Accurate Typhoon Track Forecasting_ ```arXiv 2025```     
+[[Paper](https://arxiv.org/pdf/2506.17609)] [[Code](https://arxiv.org/pdf/2506.17609)]
+
+
 
 
 
