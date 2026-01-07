@@ -24,6 +24,7 @@
     - [GANs](#domain-generative-learning-gan)
 - [Foundation Models](#pretraining-finetuning)
 - [Multi-modal Weather Models](#multi-modal-weather-model)
+- [Distillation for Climate & Weather](#distillation-model)
 - [Agentic Models for Climate & Weather](#agentic-model)
 - [Applications](#application)
   - [Precipitation](#percipitation)
@@ -307,6 +308,12 @@
 [[Paper](https://arxiv.org/pdf/2506.17609)] [[Code](https://arxiv.org/pdf/2506.17609)]
 
 
+
+<!-------------------------------------- Distillation for Climate & Weather  --------------------------------------> 
+<h2 id="distillation-model">👉👉 Distillation for Climate & Weather</h2>
+
+- **(DLESyM)** _Long-Range Distillation: Distilling 10,000 Years of Simulated Climate into Long Timestep AI Weather Models_ ```arXiv 2025```     
+[[Paper](https://arxiv.org/pdf/2512.22814)] [[Code]()]
 
 
 
