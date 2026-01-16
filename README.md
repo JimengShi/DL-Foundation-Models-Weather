@@ -343,6 +343,7 @@
 
 <h3 id="precipitation"> Precipitation</h3>
 
+- Neural general circulation models for modeling precipitation. [[Paper](https://www.science.org/doi/10.1126/sciadv.adv6891)]
 - Deep Learning and the Weather Forecasting Problem: Precipitation Nowcasting. [[Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119646181.ch15)]
 - PRISMA: A systematic quantitative review on the performance of some of the recent short-term rainfall forecasting techniques. [[Paper](https://iwaponline.com/jwcc/article/13/8/3004/89806/A-systematic-quantitative-review-on-the)]
 - Deep Learning Techniques in Extreme Weather Events: A Review [[Paper](https://arxiv.org/abs/2308.10995)]
