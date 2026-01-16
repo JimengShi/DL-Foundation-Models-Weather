@@ -116,6 +116,9 @@
 
 <h4 id="general-predictive-learning-physicsai">PhysicsAI</h4>
 
+- **(Conformer)** _Searth Transformer: A Transformer Architecture Incorporating Earth's Geospheric Physical Priors for Global Mid-Range Weather Forecasting_ ```arXiv 2026```     
+[[Paper](https://arxiv.org/pdf/2601.09467)] [[Code]()]
+
 - **(ClimODE)** _ClimODE: Climate and Weather Forecasting with Physics-informed Neural ODEs_ ```arXiv 2024```     
 [[Paper](https://arxiv.org/abs/2404.10024)] [[Code](https://github.com/Aalto-QuML/ClimODE)]
 
@@ -126,7 +129,9 @@
 [[Paper](https://www.nature.com/articles/s41586-024-07744-y)] [[Code](https://github.com/neuralgcm/neuralgcm)]
 
 - **(Conformer)** _STC-ViT: Spatio Temporal Continuous Vision Transformer for Weather Forecasting_ ```arXiv 2024```     
-[[Paper](https://arxiv.org/abs/2402.17966)]
+[[Paper](https://arxiv.org/abs/2402.17966)] [[Code]()]
+
+
 
 
 
