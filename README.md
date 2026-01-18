@@ -44,7 +44,8 @@
 <img src="https://github.com/JimengShi/AI-Models-Weather-and-Climate/blob/main/figs/frameworks.jpg" alt="taxonomy" width="800"/> 
 </div>
 
-**Comprehensive review:**
+**Representative review:**
+
 <div align="center">
 <img src="https://github.com/JimengShi/AI-Models-Weather-and-Climate/blob/main/figs/review.jpg" alt="review" width="800"/> 
 </div>
