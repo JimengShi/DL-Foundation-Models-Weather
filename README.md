@@ -395,6 +395,7 @@
 
 <h3 id="sst"> Sea Surface Temperature </h3>
 
+- OptFormer: Optical Flow-Guided Attention and Phase Space Reconstruction for SST Forecasting. [[Paper](https://arxiv.org/abs/2601.06078)] 
 - ENSO analysis and prediction using deep learning: A review. [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231222014722)]
 - Analyzing El Niño–Southern Oscillation Predictability Using Long-Short-Term-Memory Models. [[Paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018EA000423)]
 - Spatiotemporal Model Based on Deep Learning for ENSO Forecasts. [[Paper](https://www.mdpi.com/2073-4433/12/7/810)]
