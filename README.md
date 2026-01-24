@@ -501,3 +501,13 @@
 - OceanGPT: A Large Language Model for Ocean Science Tasks, in arXiv 2023. [paper] [official code]
 - IBMWeatherGen: Stochastic Weather Generator Tool, [[Code](https://github.com/IBM/IBMWeatherGen/)]
 
+
+
+## Citation
+```bibtex
+@article{shi2025deep,
+  title={Deep learning and foundation models for weather prediction: A survey},
+  author={Shi, Jimeng and Shirali, Azam and Jin, Bowen and Zhou, Sizhe and Hu, Wei and Rangaraj, Rahuul and Wang, Shaowen and Han, Jiawei and Wang, Zhaonan and Lall, Upmanu and others},
+  journal={arXiv preprint arXiv:2501.06907},
+  year={2025}
+}
