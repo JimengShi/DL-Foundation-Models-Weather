@@ -72,6 +72,9 @@
 - **(FuXi)** _FuXi: a cascade machine learning forecasting system for 15-day global weather forecast_ ```npj Climate and Atmospheric Science 2023```     
 [[Paper](https://www.nature.com/articles/s41612-023-00512-1)] [[Code](https://drive.google.com/drive/folders/1NhrcpkWS6MHzEs3i_lsIaZsADjBrICYV)]
 
+- **(FuXi-Ocean)** _FuXi-Ocean: A Global Ocean Forecasting System with Sub-Daily Resolution_ ```NeurIPS 2025```     
+[[Paper](https://arxiv.org/pdf/2506.03210)] [[Code]( )]
+
 - **(FengWu)** _FengWu: Pushing the Skillful Global Medium-range Weather Forecast beyond 10 Days Lead_ ```arXiv 2023```     
 [[Paper](https://arxiv.org/abs/2304.02948)] [[Code](https://github.com/OpenEarthLab/FengWu)]
 
