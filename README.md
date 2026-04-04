@@ -4,7 +4,7 @@
 </div>
 
 ## Features
-This repository curates more recent related work that may not be included in the [paper](https://arxiv.org/pdf/2501.06907).
+[2026.01] This repository curates more recent related work that may not be included in the [paper](https://arxiv.org/pdf/2501.06907).
 
 
 
