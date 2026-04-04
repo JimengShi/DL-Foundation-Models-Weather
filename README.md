@@ -3,6 +3,11 @@
 <img src="https://github.com/JimengShi/AI-Models-Weather-and-Climate/blob/main/figs/weather_forecast.jpg" alt="taxonomy" width="600"/> 
 </div>
 
+## Features
+This repository curates more recent related work that may not be included in the [paper](https://arxiv.org/pdf/2501.06907).
+
+
+
 ## Contents
 - [Predictive Models](#predictive-learning)
   - [General-Purpose Large Models](#general-predictive-learning)
