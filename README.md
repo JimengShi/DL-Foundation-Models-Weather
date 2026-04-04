@@ -333,7 +333,7 @@
 <h2 id="agentic-model">👉👉 Agentic Models</h2>
 
 - **(ClimateBench-M)** _Zephyrus: An Agentic Framework for Weather Science_ ```arXiv 2025```     
-[[Paper](https://arxiv.org/pdf/2510.04017v1)] [[Code]()]
+[[Paper](https://arxiv.org/pdf/2510.04017v1)] [[Code](https://github.com/Rose-STL-Lab/Zephyrus)]
 
 
 
