@@ -4,6 +4,7 @@
 </div>
 
 ## Features
+[2026.04] The paper has been accepted to the 35th International Joint Conference on Artificial Intelligence (IJCAI 2026).
 [2026.01] This repository curates more recent related work that may not be included in the [paper](https://arxiv.org/pdf/2501.06907).
 
 
